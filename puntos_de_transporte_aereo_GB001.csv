@@ -1,0 +1,878 @@
+FID,gid,entidad,geom,fna,gna,nam,fun,atv,fdc,sag
+puntos_de_transporte_aereo_GB001.1,1,1,POINT (-68.21931593999994 -37.56154897799996),,,,-1,-1,ESRI-World_Imagery-2010/IGN04/IGN Dirección de Geografía,IGN
+puntos_de_transporte_aereo_GB001.2,2,1,POINT (-68.27104058699996 -37.60982065999997),,,,2,-1,ESRI-World_Imagery-2010/IGN01/IGN04/IGN Dirección de Geografía,IGN
+puntos_de_transporte_aereo_GB001.3,3,1,POINT (-68.90327920699997 -37.38594386699998),Aeródromo Rincón de los Sauces,Aeródromo,Rincón de los Sauces,6,9,ESRI-World_Imagery-2010/IGN01/IGN04/Ministerio de Transporte de la Nación/IGN Dirección de Geograf,IGN
+puntos_de_transporte_aereo_GB001.4,4,1,POINT (-69.85904212099996 -36.77584811099996),,,,-1,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.5,5,1,POINT (-71.15344735199994 -39.376988806999975),,,,-1,-1,ESRI-World_Imagery,IGN
+puntos_de_transporte_aereo_GB001.10,10,1,POINT (-53.67128327399996 -26.27821502699993),Aeródromo Bernardo de Irigoyen,Aeródromo,Bernardo de Irigoyen,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.12,12,1,POINT (-64.03439804299995 -23.213031550999972),Aeródromo Salvita,Aeródromo,Salvita,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.13,13,1,POINT (-63.32302964099995 -23.242972300999952),Aeródromo El Desafío,Aeródromo,El Desafío,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.14,14,1,POINT (-64.17975190199996 -24.814588586999946),Aeródromo SAS Aeroaplicaciones,Aeródromo,SAS Aeroaplicaciones,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.15,15,1,POINT (-63.04996460799998 -24.718149405999952),Aeródromo Estancia Los Pozos,Aeródromo,Estancia Los Pozos,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.16,16,1,POINT (-66.15734318399996 -25.105480176999947),Aeródromo Cachi,Aeródromo,Cachi,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.17,17,1,POINT (-64.96416155999998 -25.51150513799996),Aeródromo San José de Metán,Aeródromo,San José de Metán,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.18,18,1,POINT (-61.368489592999936 -32.81319064099995),Aeródromo Cañada de Gómez,Aeródromo,Cañada de Gómez,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.19,19,1,POINT (-61.50007148199995 -33.46864690999996),Aeródromo Firmat,Aeródromo,Firmat,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.20,20,1,POINT (-60.27131540499994 -28.569884833999936),Aeródromo El Aduar,Aeródromo,El Aduar,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.21,21,1,POINT (-62.480952283999954 -35.583201515999974),Aeródromo Establecimiento 10 de Noviembre,Aeródromo,Establecimiento 10 de Noviembre,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.22,22,1,POINT (-60.43802482199993 -30.53441565199995),Aeródromo Estancia El Cencerro,Aeródromo,Estancia El Cencerro,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.23,23,1,POINT (-64.64944072799995 -24.729531363999968),Aeródromo Estancia El Rey,Aeródromo,Estancia El Rey,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.24,24,1,POINT (-59.77699279099994 -34.03899345899998),Aeródromo Estancia La Elisa,Aeródromo,Estancia La Elisa,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.25,25,1,POINT (-63.044307490999984 -36.04534039499998),Aeródromo Nueva Castilla,Aeródromo,Nueva Castilla,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.26,26,1,POINT (-60.93848813999995 -35.40448808899998),Aeroclub 9 de Julio,Aeroclub,9 de Julio,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.27,27,1,POINT (-64.90489664999996 -34.35711405699993),Aeródromo Villa Valeria,Aeródromo,Villa Valeria,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.28,28,1,POINT (-60.17949671599996 -32.583559983999976),Aeródromo Victoria,Aeródromo,Victoria,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.30,30,1,POINT (-62.53134232299993 -32.73688072599998),Aeródromo Chialva S.H.,Aeródromo,Chialva S.H.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.31,31,1,POINT (-63.558516390999955 -37.70023710299995),Aeródromo Guatraché,Aeródromo,Guatraché,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.33,33,1,POINT (-64.22326536999998 -36.59329086499997),Aeródromo San Alberto,Aeródromo,San Alberto,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.34,34,1,POINT (-60.62868389099998 -33.46599275999995),Aeródromo Cóndor del Aire,Aeródromo,Cóndor del Aire,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.35,35,1,POINT (-63.49880184899996 -35.63660393699996),Aeródromo Estancia Trebolares,Aeródromo,Estancia Trebolares,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.36,36,1,POINT (-65.62618404999995 -34.48810131999994),Aeródromo Estancia Gloria a Dios,Aeródromo,Estancia Gloria a Dios,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.37,37,1,POINT (-68.73694157699998 -30.221484663999945),Aeródromo San José de Jáchal,Aeródromo,San José de Jáchal,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.38,38,1,POINT (-56.63631332099993 -64.23996824299996),Aeródromo Vicecomodoro Marambio,Aeródromo,Vicecomodoro Marambio,6,8,IGN/Ministerio de Transporte,IGN
+puntos_de_transporte_aereo_GB001.83,83,1,POINT (-61.388668680999956 -35.63289216099997),Aeródromo Carlos Casares,Aeródromo,Carlos Casares,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.41,41,1,POINT (-60.67313811199995 -33.28631847599996),Aeródromo Estancia San Nicolás,Aeródromo,Estancia San Nicolás,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.42,42,1,POINT (-61.71602815099993 -32.21225100899994),Aeródromo El Trébol,Aeródromo,El Trébol,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.43,43,1,POINT (-60.85048065899997 -31.471165372999963),Aeródromo Esperanza,Aeródromo,Esperanza,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.44,44,1,POINT (-61.18078591799997 -32.03781798199998),Aeródromo Gálvez,Aeródromo,Gálvez,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.45,45,1,POINT (-60.36813739599995 -30.38831396699993),Aeroclub Gobernador Crespo,Aeroclub,Gobernador Crespo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.46,46,1,POINT (-60.88708201899993 -30.960749592999946),Aeródromo La Pelada,Aeródromo,La Pelada,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.47,47,1,POINT (-61.58175733699994 -32.488267829999984),Aeródromo Las Rosas,Aeródromo,Las Rosas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.48,48,1,POINT (-59.977929966999966 -29.36364068599994),Aeródromo Malabrigo,Aeródromo,Malabrigo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.49,49,1,POINT (-60.753640883999935 -32.641712532999975),Aeródromo Puerto San Martín - Terminal 6,Aeródromo,Puerto San Martín - Terminal 6,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.50,50,1,POINT (-61.49828371099994 -31.279207204999977),Aeródromo Rafaela,Aeródromo,Rafaela,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.52,52,1,POINT (-60.57031440099996 -33.08351236499993),Aeródromo Pueblo Esther,Aeródromo,Pueblo Esther,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.53,53,1,POINT (-61.222770486999934 -30.265903933999937),Aeródromo San Cristóbal,Aeródromo,San Cristóbal,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.54,54,1,POINT (-59.99113967799997 -30.55914670599998),Aeroclub San Javier,Aeroclub,San Javier,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.55,55,1,POINT (-61.84472532999996 -31.88731374599996),Aeródromo San Jorge,Aeródromo,San Jorge,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.61,61,1,POINT (-64.21333794699996 -35.05682494699994),Aeródromo Realicó,Aeródromo,Realicó,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.62,62,1,POINT (-63.72612723299994 -33.36504499599994),Aeródromo Alejandro Roca,Aeródromo,Alejandro Roca,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.63,63,1,POINT (-63.31398741399994 -33.45549186699998),Aeródromo La Carlota,Aeródromo,La Carlota,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.64,64,1,POINT (-62.317633788999956 -32.64798265299993),Aeródromo Leones,Aeródromo,Leones,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.69,69,1,POINT (-59.33953302899994 -26.31717204399996),Aeródromo El Colorado,Aeródromo,El Colorado,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.70,70,1,POINT (-58.15438296599996 -32.26160701099997),Aeródromo Colón,Aeródromo,Colón,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.71,71,1,POINT (-58.01633991799997 -31.30816621499997),Aeroclub Concordia,Aeroclub,Concordia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.73,73,1,POINT (-59.575263535999966 -30.745346062999943),Aeroclub La Paz,Aeroclub,La Paz,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.74,74,1,POINT (-59.74968058699994 -32.39731646299998),Aeródromo Nogoyá,Aeródromo,Nogoyá,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.76,76,1,POINT (-64.56388601299994 -31.964865561999943),Aeroclub Villa General Belgrano,Aeroclub,Villa General Belgrano,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.77,77,1,POINT (-62.98567255299997 -35.49923225699996),Aeródromo América,Aeródromo,América,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.78,78,1,POINT (-60.04531722099995 -34.07973235199995),Aeroclub Arrecifes,Aeroclub,Arrecifes,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.79,79,1,POINT (-61.38669839199997 -34.22237119299996),Aeródromo Arribeños,Aeródromo,Arribeños,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.80,80,1,POINT (-59.88774934299994 -36.83403883699998),Aeródromo Azul,Aeródromo,Azul,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.81,81,1,POINT (-58.79589760099998 -34.30023765999994),Aeródromo Belén de Escobar,Aeródromo,Belén de Escobar,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.82,82,1,POINT (-60.57874573699996 -35.33141277899995),Aeródromo Haras Trelliris,Aeródromo,Haras Trelliris,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.1070,1070,1,POINT (-60.144332615999986 -51.50563852499994),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.84,84,1,POINT (-62.471243421999986 -35.42513500499996),Aeródromo Carlos Tejedor,Aeródromo,Carlos Tejedor,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.85,85,1,POINT (-60.37680928599997 -31.75532093299995),Aeroclub Paraná,Aeroclub,Paraná,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.86,86,1,POINT (-60.21951706999994 -31.734355625999967),Aeródromo Paraná,Aeródromo,Paraná,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.88,88,1,POINT (-59.18967699399997 -32.324541367999984),Aeródromo Rosario del Tala,Aeródromo,Rosario del Tala,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.89,89,1,POINT (-58.89640986999996 -32.693648364999945),Aeródromo Urdinarrain,Aeródromo,Urdinarrain,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.90,90,1,POINT (-59.073058257999946 -31.849565911999946),Aeródromo Villaguay,Aeródromo,Villaguay,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.91,91,1,POINT (-59.03376897099997 -31.80597388299998),Aeródromo El Jagüel,Aeródromo,El Jagüel,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.92,92,1,POINT (-59.41058999999996 -31.692109999999957),Aeródromo El Malagueño,Aeródromo,El Malagueño,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.93,93,1,POINT (-59.03905332299996 -28.520373983999946),Aeródromo Bella Vista,Aeródromo,Bella Vista,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.95,95,1,POINT (-57.981272686999944 -29.778888562999953),Aeródromo Curuzú Cuatiá,Aeródromo,Curuzú Cuatiá,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.96,96,1,POINT (-58.24913963299997 -28.46996886599993),Aeródromo Rincón de Luna,Aeródromo,Rincón de Luna,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.97,97,1,POINT (-55.98521917399995 -28.066566574999968),,,,-1,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.98,98,1,POINT (-59.22020966799994 -29.104946525999935),Aeródromo Goya,Aeródromo,Goya,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.99,99,1,POINT (-59.24862216599996 -29.171736240999962),Aeroclub Goya,Aeroclub,Goya,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.100,100,1,POINT (-58.084434526999985 -29.22449947299998),Aeródromo Mercedes,Aeródromo,Mercedes,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.101,101,1,POINT (-63.005185482999934 -31.422674324999946),Aeródromo Arcor,Aeródromo,Arcor,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.103,103,1,POINT (-64.37946223999995 -30.379658937999977),Aeródromo Deán Funes,Aeródromo,Deán Funes,2,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.104,104,1,POINT (-61.77807382299994 -36.58405132699994),Aeródromo Daireaux,Aeródromo,Daireaux,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.105,105,1,POINT (-59.90387010999996 -35.977677024999934),Aeródromo General Alvear,Aeródromo,General Alvear,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.106,106,1,POINT (-61.91495109599998 -34.79343927999997),Aeródromo General Pinto,Aeródromo,General Pinto,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.107,107,1,POINT (-64.07925616399996 -30.98827384899994),Aeródromo Jesús María,Aeródromo,Jesús María,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.108,108,1,POINT (-64.15922142299996 -31.213253331999965),Aeródromo Brigadier Mayor Juan Ignacio San Martín,Aeródromo,Brigadier Mayor Juan Ignacio San Martín,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.109,109,1,POINT (-64.52636625099996 -31.00962729899993),Aeródromo La Cumbre,Aeródromo,La Cumbre,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.110,110,1,POINT (-62.02540681199997 -30.681687404999934),Aeródromo Morteros,Aeródromo,Morteros,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.111,111,1,POINT (-63.55021897399996 -32.05810698399995),Aeródromo Oliva,Aeródromo,Oliva,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.112,112,1,POINT (-59.034211219999975 -34.68038043399997),Aeródromo Asociación Argentina de Aviación Experimental,Aeródromo,Asociación Argentina de Aviación Experimental,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.113,113,1,POINT (-61.01704830299997 -34.976095631999954),Aeródromo Los Toldos,Aeródromo,Los Toldos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.114,114,1,POINT (-61.74508651299993 -36.313715739999964),Aeródromo Henderson,Aeródromo,Henderson,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.115,115,1,POINT (-61.949491068999976 -37.053208548999976),Aeródromo Huanguelén,Aeródromo,Huanguelén,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.116,116,1,POINT (-62.87658808799995 -36.44217138499994),Aeródromo Tres Lomas,Aeródromo,Tres Lomas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.117,117,1,POINT (-57.95901778199993 -34.87717741399996),Aeródromo Tolosa,Aeródromo,Tolosa,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.118,118,1,POINT (-61.014920065999945 -34.65550071399997),Aeródromo Laguna de Gómez,Aeródromo,Laguna de Gómez,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.119,119,1,POINT (-61.534825781999984 -34.88928274899996),Aeródromo Lincoln,Aeródromo,Lincoln,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.120,120,1,POINT (-59.28895421399994 -35.02316031299995),Aeródromo Navarro,Aeródromo,Navarro,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.121,121,1,POINT (-60.22323940999996 -36.89108445199997),Aeródromo Olavarría,Aeródromo,Olavarría,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.122,122,1,POINT (-62.21657544699997 -35.10873751399998),Aeródromo Las Lilas,Aeródromo,Las Lilas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.123,123,1,POINT (-61.86196012399995 -35.843063997999934),Aeródromo Comodoro Pedro Zanni,Aeródromo,Comodoro Pedro Zanni,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.124,124,1,POINT (-61.94251522999997 -35.79102766099993),Aeródromo La Mariela,Aeródromo,La Mariela,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.125,125,1,POINT (-63.15060956399998 -36.277235417999975),Aeródromo Pellegrini,Aeródromo,Pellegrini,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.126,126,1,POINT (-60.66895638099999 -34.210525778999965),Aeródromo Rojas,Aeródromo,Rojas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.127,127,1,POINT (-60.28722908399993 -34.30477776999993),Aeródromo Salto,Aeródromo,Salto,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.128,128,1,POINT (-60.62680795099993 -25.93590409999996),Aeródromo Juan José Castelli,Aeródromo,Juan José Castelli,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.129,129,1,POINT (-61.20607713399994 -27.21600670199996),Aeródromo Charata,Aeródromo,Charata,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.130,130,1,POINT (-59.34984339599998 -26.515539218999947),Aeródromo General José de San Martín,Aeródromo,General José de San Martín,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.131,131,1,POINT (-59.66379797199994 -26.138373829999978),Aeródromo Estancia La Leonor,Aeródromo,Estancia La Leonor,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.132,132,1,POINT (-60.68269569199998 -27.59347465999997),Aeródromo Villa Ángela,Aeródromo,Villa Ángela,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.133,133,1,POINT (-62.67584308399995 -34.25517634099998),Aeródromo BSG,Aeródromo,BSG,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.134,134,1,POINT (-61.00947743199998 -34.57837598599997),Aeródromo SaforcadaParajón,Aeródromo,Saforcada-Parajón,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.135,135,1,POINT (-67.09613892899995 -27.70820538199996),Aeródromo Belén,Aeródromo,Belén,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.136,136,1,POINT (-67.57833610199998 -28.039932848999968),Aeródromo Tinogasta,Aeródromo,Tinogasta,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.137,137,1,POINT (-65.11204502099997 -28.623438282999928),Aeródromo Frías,Aeródromo,Frías,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.138,138,1,POINT (-58.76230324799997 -35.45668881499995),Aeródromo San Miguel del Monte,Aeródromo,San Miguel del Monte,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.139,139,1,POINT (-58.98840822699998 -37.347204217999945),Aeródromo Comandante Eduardo A. Olivero,Aeródromo,Comandante Eduardo A. Olivero,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.140,140,1,POINT (-70.81809960799995 -45.015876498999944),Aeródromo D. Casimiro Szlapelis,Aeródromo,D. Casimiro Szlapelis,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.141,141,1,POINT (-71.48563557799997 -43.53295604099998),Aeródromo El Corcovado,Aeródromo,El Corcovado,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.142,142,1,POINT (-62.77730884999994 -35.97518074299995),Aeródromo Ñanco Lauquen,Aeródromo,Ñanco Lauquen,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.143,143,1,POINT (-64.42827831899996 -33.09757901399996),Aeródromo Estindher,Aeródromo,Estindher,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.144,144,1,POINT (-62.016363636999984 -35.10025960499996),Aeródromo La Amalia,Aeródromo,La Amalia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.145,145,1,POINT (-60.14881531999998 -35.830774659999975),Aeródromo Santa Rita,Aeródromo,Santa Rita,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.146,146,1,POINT (-62.22753803299997 -36.35208660799998),Aeródromo Establecimiento El Triángulo,Aeródromo,Establecimiento El Triángulo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.147,147,1,POINT (-60.155065683999965 -34.355180409999946),Aeródromo Skare,Aeródromo,Skare,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.148,148,1,POINT (-62.01614971299995 -34.315267741999946),Aeródromo San Gregorio,Aeródromo,San Gregorio,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.149,149,1,POINT (-64.18676810399995 -36.59713412599996),Aeródromo El Pampero,Aeródromo,El Pampero,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.150,150,1,POINT (-61.50671718099994 -34.17756491599994),Aeródromo F.A.T.,Aeródromo,F.A.T.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.152,152,1,POINT (-64.40464772099995 -33.93554596799993),Aeródromo Don Ángel,Aeródromo,Don Ángel,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.153,153,1,POINT (-58.034987049999984 -37.73546245699998),Aeródromo Estancia Los Cardos,Aeródromo,Estancia Los Cardos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.154,154,1,POINT (-65.37223731699999 -34.005165569999974),Aeródromo Estancia Don Roberto,Aeródromo,Estancia Don Roberto,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.155,155,1,POINT (-59.83273662499994 -33.66724717499994),Aeródromo El Girasol,Aeródromo,El Girasol,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.183,183,1,POINT (-60.132475427999964 -38.03510937999994),Aeroclub Gonzales Chaves,Aeroclub,Gonzalez Chaves,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.184,184,1,POINT (-57.672692867999956 -38.008970629999965),Aeródromo Batán,Aeródromo,Batán,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.185,185,1,POINT (-57.65027812399995 -38.013902678999955),Club de Planeadores Mar del Plata,Club de Planeadores,Mar del Plata,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.186,186,1,POINT (-57.639493853999966 -38.028874653999935),Aeródromo Parque Hermoso,Aeródromo,Parque Hermoso,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.191,191,1,POINT (-62.26194846799996 -28.84901034199993),Aeródromo Agroservicio Doña Teresa,Aeródromo,Agroservicio Doña Teresa,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.192,192,1,POINT (-57.644183572999964 -27.382546091999927),Aeródromo Dinaluca S.A.,Aeródromo,Dinaluca S.A.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.193,193,1,POINT (-62.05025599999993 -30.925225930999943),Aeródromo Pablo Sierra Aeroaplicaciones,Aeródromo,Pablo Sierra Aeroaplicaciones,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.194,194,1,POINT (-63.27755168199997 -31.662166587999934),Aeródromo Aerocampo Servicios Aéreos,Aeródromo,Aerocampo Servicios Aéreos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.195,195,1,POINT (-58.71705266099997 -27.54582466499994),Aeródromo Cañada Quiroz,Aeródromo,Cañada Quiroz,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.196,196,1,POINT (-61.12811187199998 -32.889570685999956),Aeródromo Di Giuseppe,Aeródromo,Di Giuseppe,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.197,197,1,POINT (-60.652835849999974 -33.304831573999934),Aeródromo Aerofumigaciones Don Alejandro,Aeródromo,Aerofumigaciones Don Alejandro,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.198,198,1,POINT (-60.66554166099996 -33.32533204199996),Aeródromo Fumigaciones Campagnucci,Aeródromo,Fumigaciones Campagnucci,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.199,199,1,POINT (-64.29862400599995 -31.401381800999957),Aeródromo La Mezquita,Aeródromo,La Mezquita,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.200,200,1,POINT (-58.02270449699995 -29.601985059999947),Aeródromo Estancia San Juan,Aeródromo,Estancia San Juan,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.204,204,1,POINT (-62.949580552999976 -36.75420729899997),Aeródromo Salliqueló,Aeródromo,Salliqueló,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.205,205,1,POINT (-65.39649626599999 -34.498802990999934),Aeródromo Estancia Las Isletas,Aeródromo,Estancia Las Isletas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.207,207,1,POINT (-62.70662328299994 -35.99791372999994),Aeródromo La Argentina,Aeródromo,La Argentina,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.208,208,1,POINT (-61.96242733999998 -33.682941434999975),Aeródromo Venado Tuerto,Aeródromo,Venado Tuerto,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.210,210,1,POINT (-63.366028881999966 -34.12900070899997),Aeródromo Laboulaye,Aeródromo,Laboulaye,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.211,211,1,POINT (-64.08941318999996 -32.170039387999964),Aeródromo Río Tercero,Aeródromo,Río Tercero,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.212,212,1,POINT (-60.45624887799994 -35.17430585599993),Aeródromo Agro Aero Bragado,Aeródromo,Agro Aero Bragado,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.213,213,1,POINT (-59.77562553299998 -35.050509104999946),Aeródromo Agroayres,Aeródromo,Agrayres,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.215,215,1,POINT (-60.64488672899995 -33.91453370299996),Aeródromo Pergamino,Aeródromo,Pergamino,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.216,216,1,POINT (-62.67840000999996 -39.45875737999995),Aeródromo Pedro Luro,Aeródromo,Pedro Luro,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.217,217,1,POINT (-62.33876832899995 -37.75317218999993),Aeródromo Saavedra,Aeródromo,Saavedra,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.218,218,1,POINT (-62.618708771999934 -40.207971500999975),Aeródromo Stroeder,Aeródromo,Stroeder,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.220,220,1,POINT (-57.95019865499995 -35.08653482999995),Aeródromo Poblet,Aeródromo,Poblet,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.222,222,1,POINT (-58.29278076099996 -30.53889623999993),Aeródromo Estancia La Choza,Aeródromo,Estancia La Choza,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.223,223,1,POINT (-61.21097556199999 -27.30701668399996),Aeródromo El Gringo,Aeródromo,El Gringo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.224,224,1,POINT (-61.75914793099997 -32.243582809999964),Aeródromo Burdisso,Aeródromo,Burdisso,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.225,225,1,POINT (-60.90070866499997 -31.405936597999982),Aeródromo Aníbal Brizi,Aeródromo,Aníbal Brizi,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.226,226,1,POINT (-58.75593934699998 -30.95493008699998),Aeródromo Federal,Aeródromo,Federal,6,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.227,227,1,POINT (-61.650367348999964 -27.481313196999963),Aeródromo Pulverizaciones M. H.,Aeródromo,Pulverizaciones M. H.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.228,228,1,POINT (-61.659229635999964 -27.48537283899998),Aeródromo Agroaire,Aeródromo,Agroaire,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.229,229,1,POINT (-56.071296994999955 -28.041392764999955),Aeródromo Estancia Villa Corina,Aeródromo,Estancia Villa Corina,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.230,230,1,POINT (-61.275277320999976 -27.33791255899996),Aeródromo General Pinedo,Aeródromo,General Pinedo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.231,231,1,POINT (-59.18293268399998 -29.154355487999965),Aeródromo Italaviation,Aeródromo,Italaviation,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.232,232,1,POINT (-58.56481579399997 -32.941140306999955),Aeródromo Estancia La Providencia,Aeródromo,Estancia La Providencia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.233,233,1,POINT (-56.88170198399996 -29.304423649999933),Aeródromo Estancia Santa Elisa,Aeródromo,Estancia Santa Elisa,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.234,234,1,POINT (-61.143334348999986 -31.389047993999952),Aeródromo Establecimiento La Adelita,Aeródromo,Establecimiento La Adelita,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.235,235,1,POINT (-59.67335355599994 -28.86103997699996),Aeródromo Lanteri,Aeródromo,Lanteri,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.236,236,1,POINT (-58.669124721999935 -27.087532961999955),Aeródromo Petruk,Aeródromo,Petruk,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.237,237,1,POINT (-61.54438828999997 -32.62568870299998),Aeródromo El Gaucho,Aeródromo,El Gaucho,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.239,239,1,POINT (-57.85342756899996 -36.88471871799993),Aeródromo Maipú,Aeródromo,Maipú,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.241,241,1,POINT (-57.29475004799997 -35.34815445899994),Aeródromo Base Aeronaval Punta Indio,Aeródromo,Base Aeronaval Punta Indio,6,8,IGN,IGN
+puntos_de_transporte_aereo_GB001.243,243,1,POINT (-60.774058974999946 -37.522440383999935),Aeródromo Laprida,Aeródromo,Laprida,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.244,244,1,POINT (-62.992661113999986 -34.99382073199996),Aeródromo General Villegas,Aeródromo,General Villegas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.245,245,1,POINT (-62.63037585699993 -31.820145923999974),Aeródromo Macías,Aeródromo,Macías,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.246,246,1,POINT (-62.70620462599999 -31.885504414999957),Aeródromo Las Varillas,Aeródromo,Las Varillas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.247,247,1,POINT (-62.844231165999986 -31.85799216999993),Aeródromo Ginevro,Aeródromo,Ginevro,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.248,248,1,POINT (-57.83888097499994 -29.99542361799996),Aeródromo La Esmeralda,Aeródromo,La Esmeralda,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.331,331,1,POINT (-64.33650991499997 -33.16549656099994),Aeroclub Río Cuarto,Aeroclub,Río Cuarto,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.250,250,1,POINT (-64.25271356399998 -23.261385787999927),Aeródromo El Tabacal,Aeródromo,El Tabacal,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.251,251,1,POINT (-61.89328820399999 -32.130865454999935),Aeródromo La Caledonia,Aeródromo,La Caledonia,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.252,252,1,POINT (-57.92747423299994 -27.689490108999962),Aeródromo Estancia La Flecha,Aeródromo,Estancia La Flecha,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.253,253,1,POINT (-58.398145452999984 -30.520514230999936),Aeródromo Buena Esperanza,Aeródromo,Buena Esperanza,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.254,254,1,POINT (-61.31783345799994 -33.07631531499993),Aeródromo Establecimiento La Florencia,Aeródromo,Establecimiento La Florencia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.255,255,1,POINT (-60.97799608999998 -32.35776294499993),Aeródromo Fumigaciones González,Aeródromo,Fumigaciones González,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.256,256,1,POINT (-57.84522382799997 -30.23714761399998),Aeródromo Timboy,Aeródromo,Timboy,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.257,257,1,POINT (-57.969142568999985 -30.385315440999932),Aeródromo El Pilincho,Aeródromo,El Pilincho,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.258,258,1,POINT (-61.84255663799996 -32.58125585199997),Aeródromo Montes de Oca,Aeródromo,Montes de Oca,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.259,259,1,POINT (-59.819165777999956 -32.41992070499998),Aeródromo Juan Carlos Bagur,Aeródromo,Juan Carlos Bagur,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.260,260,1,POINT (-59.86625918599998 -32.44719487599997),Aeródromo Tognoli,Aeródromo,Tognoli,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.261,261,1,POINT (-60.716037795999966 -33.07564489799995),Aeródromo Estancia La Carolina,Aeródromo,Estancia La Carolina,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.262,262,1,POINT (-58.93778245799996 -25.28259073199996),Aeródromo Estancia La Salvación,Aeródromo,Estancia La Salvación,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.263,263,1,POINT (-55.864132343999984 -27.60728688499995),Aeródromo Bonetti,Aeródromo,Bonetti,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.264,264,1,POINT (-59.535816618999945 -26.290361479999945),Aeródromo Estancia Don Panos,Aeródromo,Estancia Don Panos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.266,266,1,POINT (-58.81929391699998 -27.58721544699995),Aeródromo Nueva Valencia,Aeródromo,Nueva Valencia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.267,267,1,POINT (-60.77867469599994 -32.82921563799994),Aeródromo Don José,Aeródromo,Don José,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.268,268,1,POINT (-65.55174168899998 -36.490911962999974),Aeródromo Estancia El Mate,Aeródromo,Estancia El Mate,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.269,269,1,POINT (-64.37236625499997 -34.82138963999995),Aeródromo Huinca Renancó,Aeródromo,Huinca Renancó,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.270,270,1,POINT (-63.28697085399995 -38.730422972999975),Aeródromo La Reforma,Aeródromo,La Reforma,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.271,271,1,POINT (-65.06390635799994 -41.83316496499998),Aeródromo Bahía Dorada,Aeródromo,Bahía Dorada,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.272,272,1,POINT (-60.55375139299997 -38.74330147799998),Aeródromo Copetonas,Aeródromo,Copetonas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.273,273,1,POINT (-71.24189230299999 -43.72125035799996),Aeródromo Estancia Caridad,Aeródromo,Estancia Caridad,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.275,275,1,POINT (-71.02094293199997 -43.61255323199998),Aeródromo Estancia Tecka,Aeródromo,Estancia Tecka,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.276,276,1,POINT (-59.349961106999956 -38.00841750999996),Aeródromo La Madrugada,Aeródromo,La Madrugada,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.277,277,1,POINT (-68.48769363199995 -33.20531498899993),Aeródromo Aerotec Argentina S.A.,Aeródromo,Aerotec Argentina S.A.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.278,278,1,POINT (-61.20654607599994 -33.177994557999966),Aeródromo Casilda Fumigaciones,Aeródromo,Casilda Fumigaciones,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.279,279,1,POINT (-61.95352285699994 -31.87909485299997),Aeródromo Bocca,Aeródromo,Bocca,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.280,280,1,POINT (-63.857594226999936 -30.269495493999955),Aeródromo San José de la Dormida,Aeródromo,San José de la Dormida,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.281,281,1,POINT (-63.29062252699998 -22.123117350999962),Aeródromo Finca La Frontera,Aeródromo,Finca La Frontera,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.282,282,1,POINT (-61.83032855999994 -31.355409983999948),Aeródromo Santa Clara de Saguier,Aeródromo,Santa Clara de Saguier,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.283,283,1,POINT (-60.90998636299997 -32.57967804499998),Aeródromo Fumigaciones Stadler,Aeródromo,Fumigaciones Stadler,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.284,284,1,POINT (-61.786574910999946 -29.229572837999967),Aeródromo Tostado,Aeródromo,Tostado,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.285,285,1,POINT (-56.79596237599998 -29.359128040999963),Aeródromo Yapeyú,Aeródromo,Yapeyú,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.286,286,1,POINT (-71.80548479199996 -42.217100149999965),Aeródromo Lago La Esperanza,Aeródromo,Lago La Esperanza,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.287,287,1,POINT (-69.28101652599997 -46.19072436199997),Aeródromo Los Perales,Aeródromo,Los Perales,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.288,288,1,POINT (-59.10421189699997 -36.071685455999955),Aeródromo Las Flores,Aeródromo,Las Flores,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.289,289,1,POINT (-64.61226774599999 -33.61620008199998),Aeródromo Coronel Moldes,Aeródromo,Coronel Moldes,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.290,290,1,POINT (-59.42189483699997 -34.469666436999944),Aeródromo San Andrés de Giles,Aeródromo,San Andrés de Giles,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.291,291,1,POINT (-58.475316316999965 -37.16005498399994),Aeroclub Ayacucho,Aeroclub,Ayacucho,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.292,292,1,POINT (-58.46521814199997 -35.75306391399994),Aeródromo General Belgrano,Aeródromo,General Belgrano,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.293,293,1,POINT (-64.76149190999996 -34.23665485899994),Aeródromo Estancia El Alegre,Aeródromo,Estancia El Alegre,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.295,295,1,POINT (-62.035439021999935 -33.335260310999956),Aeródromo Chañar Ladeado,Aeródromo,Chañar Ladeado,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.296,296,1,POINT (-59.79215291999998 -37.70701820499994),Aeroclub Benito Juárez,Aeroclub,Benito Juárez,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.297,297,1,POINT (-60.93171309799993 -34.552202127999976),Aeródromo Junín,Aeródromo,Junín,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.298,298,1,POINT (-64.27497830699997 -35.87998193499993),Aeródromo Eduardo Castex,Aeródromo,Eduardo Castex,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.299,299,1,POINT (-62.63110383299994 -33.21078001899997),Aeródromo Monte Maíz,Aeródromo,Monte Maíz,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.300,300,1,POINT (-58.10484703299994 -38.30849362499998),Aeródromo Estancia Lucila,Aeródromo,Estancia Lucila,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.301,301,1,POINT (-58.13385973399994 -38.38525991499995),Aeródromo Bellamar,Aeródromo,Bellamar,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.312,312,1,POINT (-59.73376018699997 -34.16628793299998),Aeródromo Capitán Sarmiento,Aeródromo,Capitán Sarmiento,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.314,314,1,POINT (-65.41480485499994 -36.20889010299993),Aeródromo Victorica,Aeródromo,Victorica,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.315,315,1,POINT (-60.03606004799997 -34.960561810999934),Aeródromo Chivilcoy,Aeródromo,Chivilcoy,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.316,316,1,POINT (-57.96280179699994 -34.97502005399997),Aeródromo Elizalde,Aeródromo,Elizalde,2,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.317,317,1,POINT (-64.98587966799994 -31.73163170099997),Aeródromo Mina Clavero,Aeródromo,Mina Clavero,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.318,318,1,POINT (-57.365793173999975 -35.40298085399996),Aeródromo Verónica,Aeródromo,Verónica,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.324,324,1,POINT (-58.502833314999975 -34.72607455599996),Aeródromo Matanza,Aeródromo,Matanza,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.325,325,1,POINT (-65.14875405399994 -31.95168152699995),Aeródromo Villa Dolores,Aeródromo,Villa Dolores,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.326,326,1,POINT (-61.82707615199996 -38.238550259999954),Aeródromo Santo Tomás de la Sierra,Aeródromo,Santo Tomás de la Sierra,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.327,327,1,POINT (-65.03023593599994 -40.75647591799998),Aeródromo Antoine de Saint-Exupéry,Aeródromo,Antoine de Saint-Exupéry,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.328,328,1,POINT (-67.17240763499996 -54.49960994999998),Aeródromo Tolhuin,Aeródromo,Tolhuin,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.329,329,1,POINT (-71.47706465099998 -43.08773576599998),Gendarmería Nacional Sección Aviación Trevelín,Gendarmería Nacional,Sección Aviación Trevelín,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.330,330,1,POINT (-57.71679773899996 -36.31797405699996),Aeródromo Dolores,Aeródromo,Dolores,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.1058,1058,1,POINT (-60.35710855599996 -51.54001799499997),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.332,332,1,POINT (-58.24466111999993 -34.705784706999964),Aeródromo Quilmes,Aeródromo,Quilmes,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.333,333,1,POINT (-60.481806103999986 -35.14010869899994),Aeroclub Bragado,Aeroclub,Bragado,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.334,334,1,POINT (-57.13896492199996 -37.03588241299997),Aeródromo General Juan Madariaga,Aeródromo,General Juan Madariaga,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.338,338,1,POINT (-58.78436433899998 -34.55684099499996),Aeródromo Mariano Moreno,Aeródromo,Mariano Moreno,6,8,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.339,339,1,POINT (-58.20635749999997 -34.74430182999998),Aeródromo Ezpeleta,Aeródromo,Ezpeleta,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.340,340,1,POINT (-59.457676686999946 -34.63933948199997),Aeródromo Mercedes,Aeródromo,Mercedes,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.344,344,1,POINT (-62.30613845299996 -26.901927453999974),Aeródromo Establecimiento El 21,Aeródromo,Establecimiento El 21,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.345,345,1,POINT (-59.76693185299996 -29.488143455999932),Aeródromo Romang,Aeródromo,Romang,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.346,346,1,POINT (-58.37978832999994 -28.58706917199993),Aeródromo Santa Bárbara,Aeródromo,Santa Bárbara,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.347,347,1,POINT (-57.006760215999975 -28.466613931999973),Aeródromo Estancia Buena Vista,Aeródromo,Estancia Buena Vista,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.348,348,1,POINT (-57.53106404699997 -28.779978153999934),Aeródromo Cerro Verde,Aeródromo,Cerro Verde,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.349,349,1,POINT (-59.34870840999997 -34.91037892199995),Aeródromo Establecimiento La Susana,Aeródromo,Establecimiento La Susana,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.353,353,1,POINT (-56.719882290999976 -36.54080916699996),Aeródromo Santa Teresita,Aeródromo,Santa Teresita,6,9,IGN/ORSNA,IGN
+puntos_de_transporte_aereo_GB001.354,354,1,POINT (-59.443961946999934 -34.22117261999995),Aeródromo San Antonio de Areco,Aeródromo,San Antonio de Areco,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.355,355,1,POINT (-61.07541376199998 -36.18862775799994),Aeródromo San Carlos de Bolívar,Aeródromo,San Carlos de Bolívar,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.356,356,1,POINT (-58.048962432999986 -35.54036026899996),Aeródromo Chascomús,Aeródromo,Chascomús,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.357,357,1,POINT (-59.81351786199997 -35.60043315899998),Aeródromo Saladillo,Aeródromo,Saladillo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.358,358,1,POINT (-62.064913383999965 -33.69529073999996),Aeródromo La Siesta,Aeródromo,La Siesta,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.361,361,1,POINT (-62.15308281999995 -32.67956322099997),Aeródromo Marcos Juárez,Aeródromo,Marcos Juárez,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.362,362,1,POINT (-62.70097220399998 -36.01612246399998),Aeródromo Trenque Lauquen,Aeródromo,Trenque Lauquen,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.363,363,1,POINT (-65.42050816999995 -33.64219011299997),Aeródromo Mercedes,Aeródromo,Mercedes,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.364,364,1,POINT (-59.09674770899994 -37.26480947599998),Aeroclub Tandil,Aeroclub,Tandil,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.365,365,1,POINT (-65.28235734499998 -35.417661804999966),Aeródromo Estancia El Retiro,Aeródromo,Estancia El Retiro,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.367,367,1,POINT (-61.04774857099994 -33.92731672399998),Aeródromo Colón,Aeródromo,Colón,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.369,369,1,POINT (-59.08200889099999 -34.12218929499994),Aeródromo Zárate,Aeródromo,Zárate,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.370,370,1,POINT (-60.40898419399997 -34.61269819699993),Aeródromo Chacabuco,Aeródromo,Chacabuco,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.371,371,1,POINT (-61.83145567799994 -33.004994152999984),Aeródromo Cruz Alta,Aeródromo,Cruz Alta,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.372,372,1,POINT (-56.97453540099997 -37.09640056799998),Aeródromo Pinamar,Aeródromo,Pinamar,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.373,373,1,POINT (-58.67566409799997 -34.53288158299995),Aeródromo Campo de Mayo,Aeródromo,Campo de Mayo,6,8,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.374,374,1,POINT (-61.77392464199994 -32.99538145599996),Aeródromo Estancia San Vicente,Aeródromo,Estancia San Vicente,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.375,375,1,POINT (-61.28220292699996 -37.23026130599993),Aeródromo General La Madrid,Aeródromo,General La Madrid,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.376,376,1,POINT (-59.13436680099994 -35.213279023999974),Aeródromo Lobos,Aeródromo,Lobos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.377,377,1,POINT (-62.40404759299997 -33.22820015899998),Aeródromo Biondi,Aeródromo,Biondi,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.378,378,1,POINT (-64.31290642699997 -34.20362677399993),Aeródromo Estancia El Consuelo,Aeródromo,Estancia El Consuelo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.379,379,1,POINT (-59.06079537099998 -36.77367378099996),Aeródromo Rauch,Aeródromo,Rauch,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.382,382,1,POINT (-67.69317805899993 -35.05990155499995),Aeródromo General Alvear,Aeródromo,General Alvear,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.383,383,1,POINT (-71.27635646099998 -48.46561594099995),Aeródromo Lago Strobel,Aeródromo,Lago Strobel,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.384,384,1,POINT (-65.90703720499994 -47.733567834999974),Aeródromo Puerto Deseado,Aeródromo,Puerto Deseado,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.385,385,1,POINT (-62.24917162099996 -38.09749371699996),Aeródromo Tornquist,Aeródromo,Tornquist,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.386,386,1,POINT (-67.94492182499994 -54.36850713899997),Aeródromo Estancia Río Claro,Aeródromo,Estancia Río Claro,6,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.387,387,1,POINT (-70.24509765299996 -45.703833060999955),Aeródromo Río Mayo,Aeródromo,Río Mayo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.388,388,1,POINT (-62.73910259699994 -37.541806701999974),Aeródromo Puán,Aeródromo,Puán,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.389,389,1,POINT (-62.19586714999997 -33.700037435999946),Aeródromo Estancia Loreto,Aeródromo,Estancia Loreto,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.390,390,1,POINT (-60.57037078899998 -30.768480094999973),Aeródromo San Justo,Aeródromo,San Justo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.391,391,1,POINT (-61.53370070999995 -30.95685259499993),Aeroclub Sunchales,Aeroclub,Sunchales,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.392,392,1,POINT (-60.28279304499995 -33.26216585699996),Aeródromo Acindar,Aeródromo,Acindar,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.393,393,1,POINT (-61.514400497999986 -33.43165669999996),Aeroclub Firmat,Aeroclub,Firmat,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.394,394,1,POINT (-62.67831769299994 -34.285912371999984),Aeródromo Rufino,Aeródromo,Rufino,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.395,395,1,POINT (-61.632047032999935 -33.96406920299995),Aeroclub Sargento Ayudante Miguel A. Cardone,Aeroclub,Sargento Ayudante Miguel A. Cardone,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.396,396,1,POINT (-65.28137728899998 -32.74837896399998),Aeródromo Tilisarao,Aeródromo,Tilisarao,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.407,407,1,POINT (-64.47704058599999 -35.35939121599995),Aeródromo Ingeniero Luiggi,Aeródromo,Ingeniero Luiggi,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.408,408,1,POINT (-63.566601342999945 -35.23118855699994),Aeródromo Intendente Alvear,Aeródromo,Intendente Alvear,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.409,409,1,POINT (-61.49062016399995 -34.488198746999956),Aeródromo Vedia,Aeródromo,Vedia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.410,410,1,POINT (-60.08775424099997 -35.45232959699996),Aeródromo 25 de Mayo,Aeródromo,25 de Mayo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.411,411,1,POINT (-63.12527295999996 -34.546383283999944),Aeródromo Fortín de Gainza,Aeródromo,Fortín de Gainza,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.412,412,1,POINT (-62.47736733499994 -34.822154498999964),Aeródromo Augusto Leguizamón,Aeródromo,Augusto Leguizamón,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.413,413,1,POINT (-58.66662741899995 -37.55988295099996),Aeródromo Estancia La Estrella,Aeródromo,Estancia La Estrella,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.414,414,1,POINT (-62.69992908199998 -32.66007968899993),Aeródromo Bell Ville,Aeródromo,Bell Ville,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.415,415,1,POINT (-61.29818996499995 -33.43619124399993),Aeródromo Gran Ancona,Aeródromo,Gran Ancona,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.416,416,1,POINT (-62.869133354999974 -33.56019254199998),Aeródromo Canals,Aeródromo,Canals,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.417,417,1,POINT (-59.87368375799997 -34.155949548999956),Aeródromo Quebracho Herrado,Aeródromo,Quebracho Herrado,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.418,418,1,POINT (-59.689084854999976 -34.04402044799997),Aeródromo San Patricio,Aeródromo,San Patricio,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.419,419,1,POINT (-61.36483862299997 -35.572400965999975),Aeródromo Malatini,Aeródromo,Malatini,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.420,420,1,POINT (-58.24853997699995 -34.18483595699996),Aeródromo Isla Martín García,Aeródromo,Isla Martín García,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.421,421,1,POINT (-63.960912976999964 -34.52700528999998),Aeródromo Antares,Aeródromo,Antares,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.422,422,1,POINT (-61.30234988899997 -34.94475418999997),Aeródromo La Nueva,Aeródromo,La Nueva,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.423,423,1,POINT (-58.34481674399996 -34.85964316099995),Aeroclub La Caída,Aeroclub,La Caída,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.424,424,1,POINT (-59.127168694999966 -34.643558621999944),Aeródromo Estancia Villa María,Aeródromo,Estancia Villa María,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.425,425,1,POINT (-57.63828916299997 -36.775924703999976),Aeródromo Establecimieno El Araza,Aeródromo,Establecimieno El Araza,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.426,426,1,POINT (-69.07264640799997 -45.57734278899994),Aeródromo Lago Musters,Aeródromo,Lago Musters,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.429,429,1,POINT (-69.26186318099997 -51.66738102099998),Aeródromo Río Chico,Aeródromo,Río Chico,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.431,431,1,POINT (-62.98439988399997 -40.78533605499996),Aeródromo Carmen de Patagones,Aeródromo,Carmen de Patagones,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.432,432,1,POINT (-61.79398248299998 -35.51039461899995),Aeródromo Estancia 13 de Abril,Aeródromo,Estancia 13 de Abril,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.433,433,1,POINT (-62.08952700999998 -34.614487950999944),Aeródromo Establecimiento Las Teresas,Aeródromo,Establecimiento Las Teresas,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.435,435,1,POINT (-70.16246121299997 -48.78296657499993),Aeródromo Gobernador Gregores,Aeródromo,Gobernador Gregores,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.436,436,1,POINT (-71.16950404299996 -42.03354812099997),Aeródromo El Maitén,Aeródromo,El Maitén,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.437,437,1,POINT (-61.895288222999966 -37.45008877999993),Aeródromo Brigadier Don Héctor E. Ruiz,Aeródromo,Brigadier Don Héctor E. Ruiz,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.439,439,1,POINT (-58.10917920999998 -38.354734262999955),Aeródromo Las Cortaderas,Aeródromo,Las Cortaderas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.441,441,1,POINT (-68.47542103799998 -31.350365687999954),Aeroclub La Laja,Aeroclub,La Laja,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.442,442,1,POINT (-68.87309147899998 -32.86115100799998),Aeródromo Base Cóndor,Aeródromo,Base Cóndor,6,8,IGN,IGN
+puntos_de_transporte_aereo_GB001.446,446,1,POINT (-63.61116259099998 -35.19274458199993),Aeródromo Azcarate Irastorza,Aeródromo,Azcarate Irastorza,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.447,447,1,POINT (-63.633085360999985 -36.05703406799995),Aeródromo Quemú Quemú,Aeródromo,Quemú Quemú,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.449,449,1,POINT (-68.07251335099994 -40.81617278599998),Aeródromo Los Menucos,Aeródromo,Los Menucos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.450,450,1,POINT (-68.47751298499998 -33.230234508999956),Aeródromo Rivadavia,Aeródromo,Rivadavia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.451,451,1,POINT (-61.35035562799993 -35.648208731999944),Aeródromo Ottaviani,Aeródromo,Ottaviani,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.452,452,1,POINT (-59.86736881099995 -34.41599331799995),Aeródromo Carmen de Areco,Aeródromo,Carmen de Areco,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.453,453,1,POINT (-58.36507404499997 -35.195604137999965),Aeródromo El Manantial,Aeródromo,El Manantial,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.454,454,1,POINT (-62.15221218199997 -33.28414668399995),Aeródromo Corral de Bustos,Aeródromo,Corral de Bustos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.455,455,1,POINT (-60.51427511299994 -34.80796969499994),Aeródromo Las 2 A,Aeródromo,Las 2 A,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.456,456,1,POINT (-61.77456314799997 -36.59253364199998),Aeródromo Fumigaciones Rodríguez,Aeródromo,Fumigaciones Rodríguez,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.457,457,1,POINT (-58.31585289199995 -34.82170691799996),Aeródromo El Pájaro,Aeródromo,El Pájaro,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.458,458,1,POINT (-58.91368111099996 -34.92097480999996),Aeródromo General Las Heras,Aeródromo,General Las Heras,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.459,459,1,POINT (-63.684656926999935 -32.33928411499994),Aeroclub Hernando,Aeroclub,Hernando,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.460,460,1,POINT (-60.580896836999955 -34.23589533499995),Aeródromo Fumigaciones Fredy,Aeródromo,Fumigaciones Fredy,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.461,461,1,POINT (-60.495345363999945 -34.28312856499997),Aeródromo Belingueres Aviación,Aeródromo,Belingueres Aviación,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.462,462,1,POINT (-61.556997775999946 -35.275217666999936),Aeródromo Fumigaciones Ortega,Aeródromo,Fumigaciones Ortega,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.463,463,1,POINT (-65.24373111199998 -33.749978426999974),Aeródromo Estancia Santa Romana,Aeródromo,Estancia Santa Romana,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.464,464,1,POINT (-62.43489504599995 -32.92769364399993),Aeródromo Pedro Ferrari,Aeródromo,Pedro Ferrari,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.465,465,1,POINT (-63.193771407999975 -33.10849851699993),Aeródromo El Recuerdo S.R.L.,Aeródromo,El Recuerdo S.R.L.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.466,466,1,POINT (-60.696315064999965 -33.85406810099994),Aeródromo La Noria,Aeródromo,La Noria,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.467,467,1,POINT (-71.74222040899997 -47.551777561999984),Aeródromo Hipólito Yrigoyen,Aeródromo,Hipólito Yrigoyen,6,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.468,468,1,POINT (-68.97281793799993 -46.53760019699996),Aeródromo Las Heras,Aeródromo,Las Heras,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.469,469,1,POINT (-60.303105039999934 -38.407487163999974),Aeródromo Santagiulian,Aeródromo,Santagiulian,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.470,470,1,POINT (-67.07593426899996 -39.078392993999955),Aeródromo Villa Regina,Aeródromo,Villa Regina,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.471,471,1,POINT (-68.57783870599997 -50.02139528899994),Aeródromo Santa Cruz,Aeródromo,Santa Cruz,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.472,472,1,POINT (-66.94622540199998 -36.23637965399996),Aeródromo Santa Isabel,Aeródromo,Santa Isabel,6,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.473,473,1,POINT (-65.92977600699999 -26.57922119799997),Aeródromo Amaicha del Valle,Aeródromo,Amaicha del Valle,6,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.476,476,1,POINT (-64.07601287599994 -25.186786688999973),Aeródromo Agropecuaria Río Juramento,Aeródromo,Agropecuaria Río Juramento,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.477,477,1,POINT (-61.820094789999985 -23.905678337999973),Aeródromo Ingeniero Guillermo N. Juárez,Aeródromo,Ingeniero Guillermo N. Juárez,6,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.478,478,1,POINT (-64.23919983299999 -23.331346764999978),Aeródromo Franzini,Aeródromo,Franzini,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.479,479,1,POINT (-67.62452865699998 -27.64101653199998),Aeródromo Fiambalá,Aeródromo,Fiambalá,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.480,480,1,POINT (-60.489667260999965 -26.78647521399995),Aeródromo Rovere,Aeródromo,Rovere,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.481,481,1,POINT (-65.28110988799995 -34.81787589399994),Aeródromo Estancia Huelucán,Aeródromo,Estancia Huelucán,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.482,482,1,POINT (-59.11794968299995 -37.45074241499998),Aeródromo Establecimiento El Parque,Aeródromo,Establecimiento El Parque,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.483,483,1,POINT (-63.31739642799994 -37.03666959299994),Aeródromo Las Calaveras,Aeródromo,Las Calaveras,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.484,484,1,POINT (-58.262160396999946 -36.800982687999976),Aeródromo Estancia La Limpia,Aeródromo,Estancia La Limpia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.485,485,1,POINT (-62.37787393199994 -37.02969439399993),Aeródromo Establecimiento San Andrés,Aeródromo,Establecimiento San Andrés,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.486,486,1,POINT (-59.47797117599998 -34.42918017799997),Aeródromo Juan José Angelini,Aeródromo,Juan José Angelini,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.487,487,1,POINT (-64.45443088299999 -37.00916482699995),Aeródromo Establecimiento Mamuel Mapu,Aeródromo,Establecimiento Mamuel Mapu,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.488,488,1,POINT (-58.776974618999986 -30.389339606999954),Aeródromo San José de Feliciano,Aeródromo,San José de Feliciano,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.489,489,1,POINT (-58.77687411699998 -27.738199459999976),Aeródromo Las Tres Marías,Aeródromo,Las Tres Marías,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.490,490,1,POINT (-59.526638841999954 -33.97238496799997),Aeródromo Campo Amanecer,Aeródromo,Campo Amanecer,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.491,491,1,POINT (-59.175849632999984 -32.82070005999998),Aeródromo Estancia Santa Teresa,Aeródromo,Estancia Santa Teresa,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.492,492,1,POINT (-62.13487967899994 -31.41163165599994),Aeródromo San Francisco,Aeródromo,San Francisco,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.493,493,1,POINT (-59.92447041499997 -27.865345607999927),Aeródromo Campo La Invernada,Aeródromo,Campo La Invernada,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.494,494,1,POINT (-55.19882495799993 -27.03564819999997),Aeródromo Jardín de América,Aeródromo,Jardín de América,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.1071,1071,1,POINT (-59.53513854099998 -51.56734056299996),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.495,495,1,POINT (-62.71372268199997 -22.285199425999963),Aeródromo Santa Victoria Este,Aeródromo,Santa Victoria Este,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.496,496,1,POINT (-61.930839746999936 -29.87431943699994),Aeródromo Ceres,Aeródromo,Ceres,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.497,497,1,POINT (-59.37336704699993 -33.09968608499997),Aeroclub Gualeguay,Aeroclub,Gualeguay,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.498,498,1,POINT (-59.325350912999966 -28.489966899999956),Aeródromo Villa Ocampo,Aeródromo,Villa Ocampo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.499,499,1,POINT (-60.13406716399999 -35.53942746299998),Aeródromo Estancia La Criolla,Aeródromo,Estancia La Criolla,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.500,500,1,POINT (-64.41447959299995 -33.94149386599997),Aeródromo Beneficios S.R.L.,Aeródromo,Beneficios S.R.L.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.501,501,1,POINT (-64.27951347299995 -42.52510832199994),,,,6,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.502,502,1,POINT (-64.13632021899997 -38.99247514299998),Aeródromo Río Colorado,Aeródromo,Río Colorado,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.503,503,1,POINT (-69.57182988099999 -41.32241577199994),Aeródromo Cabo F. A. A. H. R. Bordón,Aeródromo,Cabo F. A. A. H. R. Bordón,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.504,504,1,POINT (-63.43011774099995 -38.07127336299993),Aeródromo Jacinto Aráuz,Aeródromo,Jacinto Aráuz,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.505,505,1,POINT (-58.37145811299996 -38.425542632999964),Aeródromo Moromar,Aeródromo,Moromar,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.506,506,1,POINT (-62.386544457999946 -37.608648623999954),Aeródromo Pigüé,Aeródromo,Pigüé,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.507,507,1,POINT (-59.58265308799997 -34.53631203599997),Aeródromo El Mirador,Aeródromo,El Mirador,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.508,508,1,POINT (-63.62393077599995 -36.592271971999935),Aeródromo Estancia El Parque,Aeródromo,Estancia El Parque,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.509,509,1,POINT (-58.91520995999997 -32.108040993999964),Aeródromo La Merced,Aeródromo,La Merced,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.510,510,1,POINT (-70.90431553999997 -50.287685877999934),Aeródromo Estancia Enriqueta,Aeródromo,Estancia Enriqueta,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.511,511,1,POINT (-64.61934685299997 -37.40205338399994),Aeródromo General Acha,Aeródromo,General Acha,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.512,512,1,POINT (-71.53224738599994 -41.94362404199995),Aeroclub El Bolsón,Aeroclub,El Bolsón,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.514,514,1,POINT (-64.41677918599999 -33.938445944999955),Aeródromo Comequechen,Aeródromo,Comequechen,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.515,515,1,POINT (-65.32562517099996 -33.84571777699995),Aeródromo Villa Mercedes - Las Totoritas,Aeródromo,Villa Mercedes - Las Totoritas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.516,516,1,POINT (-57.46980990299994 -37.00082584799998),Aeródromo Estancia San Simón,Aeródromo,Estancia San Simón,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.517,517,1,POINT (-59.096012213999984 -38.12594036499996),Aeródromo Estancia El Palomar,Aeródromo,Estancia El Palomar,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.518,518,1,POINT (-63.27031765999993 -36.037542017999954),Aeródromo Estancia Las Tres Marías,Aeródromo,Estancia Las Tres Marías,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.520,520,1,POINT (-61.76490701399996 -38.20668525899998),Aeródromo Saldungaray,Aeródromo,Saldungaray,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.521,521,1,POINT (-62.35696565799998 -38.67249763799998),Aeroclub Bahía Blanca,Aeroclub,Bahía Blanca,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.522,522,1,POINT (-68.95095306699994 -49.998931494999965),Aeródromo Comandante Luis Piedra Buena,Aeródromo,Comandante Luis Piedra Buena,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.523,523,1,POINT (-67.72306408199995 -34.970130488999985),Aeroclub General Alvear,Aeroclub,General Alvear,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.524,524,1,POINT (-62.17922592899998 -39.658069841999975),Aeródromo Establecimiento Las Isletas,Aeródromo,Establecimiento Las Isletas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.525,525,1,POINT (-63.163373321999984 -37.70825654099997),Aeródromo Darregueira,Aeródromo,Darregueira,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.526,526,1,POINT (-63.28863893899995 -32.43549190799996),Aeródromo Raig S.A.,Aeródromo,Raig S.A.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.527,527,1,POINT (-65.64736648399997 -37.339972933999945),Aeródromo Chacharramendi,Aeródromo,Chacharramendi,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.528,528,1,POINT (-61.88176482499995 -38.49680183299995),Aeroclub Cabildo,Aeroclub,Cabildo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.529,529,1,POINT (-65.61918018399996 -39.28176518399994),Aeródromo Choele Choel,Aeródromo,Choele Choel,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.530,530,1,POINT (-68.30623168399995 -54.81565598399993),Aeródromo Estación Aeronaval,Aeródromo,Estación Aeronaval,6,8,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.531,531,1,POINT (-65.07314609899998 -43.30062831099997),Aeroclub Rawson,Aeroclub,Rawson,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.532,532,1,POINT (-69.50709185999995 -52.126813539999944),,,,6,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.533,533,1,POINT (-67.80661566999999 -38.95742525399993),Aeroclub Allen,Aeroclub,Allen,6,9,IGN04/ANAC/Sitio Web de la Empresa,IGN
+puntos_de_transporte_aereo_GB001.535,535,1,POINT (-57.83219222099996 -37.92404441499997),Aeródromo Estancia El Abrojo,Aeródromo,Estancia El Abrojo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.536,536,1,POINT (-59.86809611299998 -33.91022813999996),Aeródromo Haras El Roblecito S.A.,Aeródromo,Haras El Roblecito S.A.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.537,537,1,POINT (-64.83602350499996 -34.25844819099996),Aeródromo Estancia La Candelaria,Aeródromo,Estancia La Candelaria,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.538,538,1,POINT (-61.330063019999955 -38.00535353199996),Aeródromo Coronel Pringles,Aeródromo,Coronel Pringles,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.539,539,1,POINT (-61.261411935999945 -38.74020807199997),Aeródromo Coronel Dorrego,Aeródromo,Coronel Dorrego,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.540,540,1,POINT (-70.98424164599999 -46.538190992999944),Aeródromo Perito Moreno,Aeródromo,Perito Moreno,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.541,541,1,POINT (-62.77776350499994 -37.19519493299998),Aeródromo Carhué,Aeródromo,Carhué,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.542,542,1,POINT (-63.303048037999986 -32.430424363999975),Aeródromo Suárez Aviación,Aeródromo,Suárez Aviación,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.543,543,1,POINT (-66.06147917199996 -47.89631666799994),,,,6,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.545,545,1,POINT (-67.08843719199996 -25.495414867999955),Aeródromo Fénix,Aeródromo,Fénix,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.546,546,1,POINT (-65.75335382799994 -34.19228855399996),Aeródromo Don Hernán,Aeródromo,Don Hernán,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.547,547,1,POINT (-61.676711523999984 -35.64728522199994),Aeródromo Estancia San Juan,Aeródromo,Estancia San Juan,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.548,548,1,POINT (-62.31460428899999 -36.57678926299997),Aeródromo Estancia Los Bayos,Aeródromo,Estancia Los Bayos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.549,549,1,POINT (-67.80235652599998 -49.30904091899998),Aeródromo Capitán D. Daniel Vázquez,Aeródromo,Capitán D. Daniel Vázquez,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.550,550,1,POINT (-60.32550633799997 -38.39143782799994),Aeródromo Tres Arroyos,Aeródromo,Tres Arroyos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.551,551,1,POINT (-57.76397868099997 -37.470511589999944),Aeródromo Coronel Vidal,Aeródromo,Coronel Vidal,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.553,553,1,POINT (-60.27565016199998 -38.35036334799997),Aeródromo Petrazzini,Aeródromo,Petrazzini,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.555,555,1,POINT (-58.62105241399996 -36.91507607099993),Aeródromo La Bélgica,Aeródromo,La Bélgica,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.556,556,1,POINT (-57.874449348999974 -38.22952814399997),Aeródromo Miramar,Aeródromo,Miramar,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.557,557,1,POINT (-67.65933584799996 -37.809776272999954),Aeródromo 25 de Mayo,Aeródromo,25 de Mayo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.559,559,1,POINT (-59.62643306099994 -38.33561218999995),Aeródromo San Cayetano,Aeródromo,San Cayetano,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.561,561,1,POINT (-61.81419642199995 -33.904728845999955),Aeródromo Estancia Runciman,Aeródromo,Estancia Runciman,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.562,562,1,POINT (-58.789560854999934 -38.187310019999984),Aeródromo Lobería,Aeródromo,Lobería,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.563,563,1,POINT (-63.67996996299996 -37.14289372899998),Aeroclub Macachín,Aeroclub,Macachín,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.565,565,1,POINT (-65.92924823099997 -47.720072293999976),Aeródromo Base Aeronaval Puerto Deseado,Aeródromo,Base Aeronaval Puerto Deseado,6,8,IGN,IGN
+puntos_de_transporte_aereo_GB001.566,566,1,POINT (-66.14394710899995 -34.916736415999935),Aeródromo Estancia Molino Nuevo,Aeródromo,Estancia Molino Nuevo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.568,568,1,POINT (-70.44884127999995 -44.04940480399995),Aeródromo José de San Martín,Aeródromo,José de San Martín,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.569,569,1,POINT (-68.70853102099994 -41.24298558099997),Aeródromo Maquinchao,Aeródromo,Maquinchao,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.570,570,1,POINT (-65.32634628999995 -43.23754111299996),Aeroclub Trelew,Aeroclub,Trelew,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.571,571,1,POINT (-62.08906276099998 -38.83514751499996),Aeródromo Punta Alta,Aeródromo,Punta Alta,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.572,572,1,POINT (-65.34283549699995 -41.59151764499995),Aeródromo Sierra Grande,Aeródromo,Sierra Grande,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.574,574,1,POINT (-71.60072349299998 -42.90395782599995),Aeródromo Parque Nacional Los Alerces,Aeródromo,Parque Nacional Los Alerces,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.575,575,1,POINT (-70.94199549299998 -46.57771688699995),Aeródromo Lago Buenos Aires,Aeródromo,Lago Buenos Aires,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.576,576,1,POINT (-58.33979173599994 -37.91365196399994),Aeroclub Balcarce,Aeroclub,Balcarce,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.577,577,1,POINT (-67.56705571399993 -46.53862810399994),Aeródromo Cañadón Seco,Aeródromo,Cañadón Seco,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.578,578,1,POINT (-68.10737319299994 -48.373618556999986),Aeródromo Cerro Vanguardia,Aeródromo,Cerro Vanguardia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.579,579,1,POINT (-64.74765897299994 -26.872834533999935),Aeródromo Agroalas S.R.L.,Aeródromo,Agroalas S.R.L.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.581,581,1,POINT (-63.237240819999954 -25.616932515999963),Aeródromo Taco Pozo,Aeródromo,Taco Pozo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.585,585,1,POINT (-65.48495947499998 -31.36414928499994),Aeródromo Chancani,Aeródromo,Chancani,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.586,586,1,POINT (-59.531130839999946 -34.18365187099994),Aeródromo Estancia Las Matildes,Aeródromo,Estancia Las Matildes,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.587,587,1,POINT (-59.45768922599996 -34.006964798999945),Aeródromo Estancia La Paloma,Aeródromo,Estancia La Paloma,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.588,588,1,POINT (-61.60906774899996 -28.32391116599996),Aeródromo Estancia Los Guasunchos,Aeródromo,Estancia Los Guasunchos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.589,589,1,POINT (-58.000040050999985 -30.753760021999938),Aeródromo Chajarí,Aeródromo,Chajarí,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.591,591,1,POINT (-62.37434107399997 -33.66022341199994),Aeródromo Arias,Aeródromo,Arias,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.592,592,1,POINT (-58.54046894399994 -29.862944909999953),Aeródromo Estancia San Rafael,Aeródromo,Estancia San Rafael,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.593,593,1,POINT (-63.48198507799998 -29.855184923999957),Aeródromo Estancia Las Pencas,Aeródromo,Estancia Las Pencas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.594,594,1,POINT (-64.47374427999995 -34.44378535299995),Aeródromo Estancia Moroti,Aeródromo,Estancia Moroti,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.595,595,1,POINT (-61.55724316599998 -31.930833794999955),Aeródromo La Paterna,Aeródromo,La Paterna,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.597,597,1,POINT (-58.270795187999965 -28.657041387999982),Aeródromo Estancia Toro Cuaré,Aeródromo,Estancia Toro Cuaré,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.599,599,1,POINT (-62.84456904199993 -26.60870798299993),Aeródromo Campo Gallo,Aeródromo,Campo Gallo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.600,600,1,POINT (-59.95772643099997 -28.21884661699994),Aeródromo El Tourne,Aeródromo,El Tourne,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.601,601,1,POINT (-67.39080196899994 -26.06443696599996),Aeródromo Antofagasta de la Sierra,Aeródromo,Antofagasta de la Sierra,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.602,602,1,POINT (-68.51585989299997 -33.067149024999935),Aeródromo San Martín,Aeródromo,San Martín,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.604,604,1,POINT (-65.31368182399996 -26.796013759999937),Aeroclub Horco Molle,Aeroclub,Horco Molle,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.605,605,1,POINT (-65.41320233699997 -24.750601992999975),Aeródromo General Belgrano,Aeródromo,General Belgrano,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.606,606,1,POINT (-58.609771345999945 -33.01224539699996),Aeródromo Gualeguaychú,Aeródromo,Gualeguaychú,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.607,607,1,POINT (-63.43291872499998 -36.48901511399998),Aeródromo Establecimiento La María Pilar,Aeródromo,Establecimiento La María Pilar,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.608,608,1,POINT (-60.71582674399997 -31.183384441999976),Aeródromo Llambi Campbell,Aeródromo,Llambi Campbell,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.609,609,1,POINT (-61.32004604399998 -27.61458853399995),Aeródromo Horizonte,Aeródromo,Horizonte,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.610,610,1,POINT (-62.99655315299998 -35.176569911999934),Aeródromo San Eduardo,Aeródromo,San Eduardo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.611,611,1,POINT (-60.40013282999996 -32.41533973999998),Aeródromo Estancia Los Ombúes,Aeródromo,Estancia Los Ombúes,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.612,612,1,POINT (-60.224880911999946 -29.468192255999952),Aeródromo Vera,Aeródromo,Vera,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.613,613,1,POINT (-55.76631889099997 -27.902033549999942),Aeródromo Apóstoles,Aeródromo,Apóstoles,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.615,615,1,POINT (-71.96448482099999 -51.68006168399995),Aeródromo Estancia Santa Ana,Aeródromo,Estancia Santa Ana,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.616,616,1,POINT (-59.923656190999964 -28.213599530999943),Aeródromo Establecimiento Las Delicias,Aeródromo,Establecimiento Las Delicias,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.617,617,1,POINT (-59.97602027299996 -28.454238157999953),Aeródromo Establecimiento Los Tábanos,Aeródromo,Establecimiento Los Tábanos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.618,618,1,POINT (-62.03501416399996 -36.05388161199994),Aeródromo La Invernada,Aeródromo,La Invernada,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.619,619,1,POINT (-63.25330167899995 -35.149642419999964),Aeródromo Estancia Argentinas,Aeródromo,Estancia Argentinas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.620,620,1,POINT (-60.864867354999944 -32.53775770699997),Aeródromo Oliveros,Aeródromo,Oliveros,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.621,621,1,POINT (-60.27043762699998 -31.02214382099993),Aeródromo Estancia Las Cañas,Aeródromo,Estancia Las Cañas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.622,622,1,POINT (-61.688850366999986 -24.44471959799995),Aeródromo El Sauzalito,Aeródromo,El Sauzalito,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.623,623,1,POINT (-58.309199036999985 -32.45713933999997),Aeródromo Concepción del Uruguay,Aeródromo,Concepción del Uruguay,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.627,627,1,POINT (-68.54400402699997 -31.604202418999932),Aeroclub San Juan,Aeroclub,San Juan,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.628,628,1,POINT (-69.21818607899996 -30.263032993999957),,,,6,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.630,630,1,POINT (-60.729950696999936 -29.756684376999942),Aeródromo Estancia Los Palmares,Aeródromo,Estancia Los Palmares,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.631,631,1,POINT (-59.72904943799995 -33.70455580299995),Aeródromo San Pedro,Aeródromo,San Pedro,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.632,632,1,POINT (-59.65248012699993 -29.107656393999946),Aeródromo Presidente Avellaneda,Aeródromo,Presidente Avellaneda,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.633,633,1,POINT (-58.67300676499997 -25.865012082999954),Aeródromo Estancia Alegría,Aeródromo,Estancia Alegría,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.635,635,1,POINT (-65.93127941399996 -26.06143002899995),Aeródromo Cafayate,Aeródromo,Cafayate,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.636,636,1,POINT (-62.23329883399998 -24.575838784999974),Aeródromo Comandancia Frías,Aeródromo,Comandancia Frías,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.638,638,1,POINT (-60.58534254899996 -32.01932474299997),Aeródromo Diamante,Aeródromo,Diamante,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.639,639,1,POINT (-60.768286486999955 -30.426626194999983),Aeródromo Establecimiento La Ifigenia,Aeródromo,Establecimiento La Ifigenia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.640,640,1,POINT (-62.25873836399995 -31.56708165599997),Aeródromo Quebracho Herrado,Aeródromo,Quebracho Herrado,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.641,641,1,POINT (-57.797723848999965 -29.627321952999978),Aeródromo Estancia Lavalle,Aeródromo,Estancia Lavalle,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.642,642,1,POINT (-64.75589824299993 -37.132685212999945),Aeródromo Establecimiento La Rosada,Aeródromo,Establecimiento La Rosada,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.643,643,1,POINT (-63.18499703499998 -39.436689617999946),Aeródromo Estancia Paso Alsina,Aeródromo,Estancia Paso Alsina,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.644,644,1,POINT (-63.33943655099995 -32.33360029399995),Aeródromo Tío Pujio,Aeródromo,Tío Pujio,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.645,645,1,POINT (-63.30427181999994 -30.96334989999997),Aeródromo La Puerta,Aeródromo,La Puerta,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.646,646,1,POINT (-62.83083267799998 -25.787927511999953),Aeródromo Monte Quemado,Aeródromo,Monte Quemado,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.647,647,1,POINT (-56.54101707099994 -29.06468179999996),Aeródromo Alvear,Aeródromo,Alvear,6,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.648,648,1,POINT (-67.44248887399993 -29.219795227999953),Aeródromo Brigadier Mayor Juan Facundo Quiroga,Aeródromo,Brigadier Mayor Juan Facundo Quiroga,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.649,649,1,POINT (-58.661938642999985 -28.935292474999983),Aeródromo Estancia Batel,Aeródromo,Estancia Batel,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.650,650,1,POINT (-58.70209322499994 -25.469290780999927),Aeródromo Estancia Guazú Cua,Aeródromo,Estancia Guazú Cua,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.651,651,1,POINT (-60.05356567299998 -28.563940910999975),Aeródromo Estancia Las Gamitas,Aeródromo,Estancia Las Gamitas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.652,652,1,POINT (-63.720342424999956 -23.03850976399997),Aeródromo Finca Cuchuy,Aeródromo,Finca Cuchuy,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.653,653,1,POINT (-64.35460985899994 -23.380825868999978),Aeródromo Finca Río Colorado,Aeródromo,Finca Río Colorado,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.654,654,1,POINT (-63.875676099999964 -22.961668111999927),Aeródromo Finca San Diego,Aeródromo,Finca San Diego,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.655,655,1,POINT (-58.08832443199998 -29.77738654899997),Aeroclub Curuzú Cuatiá,Aeroclub,Curuzú Cuatiá,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.656,656,1,POINT (-64.39680532699998 -31.656362162999983),Aeródromo Alta Gracia,Aeródromo,Alta Gracia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.659,659,1,POINT (-60.202062361999936 -33.39059790899995),Aeródromo San Nicolás de los Arroyos,Aeródromo,San Nicolás de los Arroyos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.660,660,1,POINT (-64.32729405799995 -23.151094757999942),Aeródromo Orán,Aeródromo,Orán,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.661,661,1,POINT (-57.43349957099997 -28.65901721599994),Aeródromo Estancia Rincón del Socorro,Aeródromo,Estancia Rincón del Socorro,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.662,662,1,POINT (-57.433606158999964 -28.124435767999955),Aeródromo Estancia San Nicolás,Aeródromo,Estancia San Nicolás,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.663,663,1,POINT (-56.848823150999976 -27.823697842999934),Aeródromo Estancia San Ignacio,Aeródromo,Estancia San Ignacio,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.664,664,1,POINT (-63.85837727699999 -25.437313135999943),Aeródromo Finca Toloche,Aeródromo,Finca Toloche,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.665,665,1,POINT (-64.96367072999993 -27.027299340999946),,,,-1,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.666,666,1,POINT (-61.764789709999945 -27.14374113599996),Aeródromo Cabaña Los Gatos,Aeródromo,Cabaña Los Gatos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.667,667,1,POINT (-57.69595050199996 -28.426659249999943),Aeródromo Estancia El Tránsito,Aeródromo,Estancia El Tránsito,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.668,668,1,POINT (-62.92674465799996 -33.50916008399997),Aeródromo La Florida,Aeródromo,La Florida,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.669,669,1,POINT (-61.95098733599997 -27.60617099199993),Aeródromo Salvucci Aviación,Aeródromo,Salvucci Aviación,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.671,671,1,POINT (-63.53814431699993 -31.58198237099998),Aeródromo Villa del Rosario,Aeródromo,Villa del Rosario,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.672,672,1,POINT (-58.21797856999996 -25.12978833099993),Aeródromo Laguna Blanca,Aeródromo,Laguna Blanca,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.673,673,1,POINT (-66.59400381499995 -27.077163333999977),Aeródromo Campo Arenal,Aeródromo,Campo Arenal,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.674,674,1,POINT (-64.27931260099996 -32.02452072799997),Aeródromo Alfonso Mengo,Aeródromo,Alfonso Mengo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.675,675,1,POINT (-64.16991950999994 -32.08896600399993),Aeródromo Lomas del Espinillo,Aeródromo,Lomas del Espinillo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.676,676,1,POINT (-64.95678099099996 -25.82383774899995),Aeródromo Rosario de la Frontera,Aeródromo,Rosario de la Frontera,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.677,677,1,POINT (-60.29157362899997 -29.85163792999998),Aeródromo Calchaquí,Aeródromo,Calchaquí,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.678,678,1,POINT (-64.52791980799998 -26.573436379999976),Aeródromo Agro Servicio Yoris,Aeródromo,Agro Servicio Yoris,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.679,679,1,POINT (-57.96932885899997 -28.476128391999964),Aeródromo San José,Aeródromo,San José,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.680,680,1,POINT (-63.77040684599996 -33.60661013999993),Aeródromo La Guadalosa,Aeródromo,La Guadalosa,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.681,681,1,POINT (-59.137717530999964 -37.568623265999975),Aeródromo Estancia San Gabriel,Aeródromo,Estancia San Gabriel,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.682,682,1,POINT (-58.833857672999955 -29.896519960999967),,,,-1,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.683,683,1,POINT (-61.75760813699998 -29.646184710999933),Aeródromo Estancia La Esmeralda,Aeródromo,Estancia La Esmeralda,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.684,684,1,POINT (-54.608840190999956 -26.007544503999952),Aeroclub,Aeroclub,,6,9,IGN/Open Street View,IGN
+puntos_de_transporte_aereo_GB001.685,685,1,POINT (-59.532606604999955 -30.045208765999973),Aeródromo Esquina,Aeródromo,Esquina,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.686,686,1,POINT (-62.67035361699993 -30.93390771299994),Aeródromo Rumachella,Aeródromo,Rumachella,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.687,687,1,POINT (-58.58346466699999 -28.854547498999978),Aeródromo Santa Irene,Aeródromo,Santa Irene,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.688,688,1,POINT (-57.423595071999955 -27.453516692999983),Aeródromo Itá Ibaté,Aeródromo,Itá Ibaté,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.689,689,1,POINT (-62.164728939999975 -35.19222260099997),Aeródromo Estancia La Leonor,Aeródromo,Estancia La Leonor,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.690,690,1,POINT (-57.90452252199998 -25.947007774999975),Aeródromo La Emilia,Aeródromo,La Emilia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.691,691,1,POINT (-64.27647134099993 -31.44350212599994),Aeródromo Escuela de Aviación Militar Argentina,Aeródromo,Escuela de Aviación Militar Argentina,6,8,IGN,IGN
+puntos_de_transporte_aereo_GB001.692,692,1,POINT (-62.03217545999996 -29.779917574999956),Aeródromo Fumigaciones Nando S.H.,Aeródromo,Fumigaciones Nando S.H.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.693,693,1,POINT (-66.34179066499996 -27.62813018099996),Aeródromo Andalgalá,Aeródromo,Andalgalá,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.694,694,1,POINT (-61.605594000999986 -28.622995557999957),Aeródromo Villa Minetti,Aeródromo,Villa Minetti,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.695,695,1,POINT (-61.68913508099996 -35.22887848299996),Aeródromo Estancia Dos Abuelos,Aeródromo,Estancia Dos Abuelos,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.696,696,1,POINT (-60.06849382099995 -33.910816816999954),Aeródromo Estancia La Esperanza,Aeródromo,Estancia La Esperanza,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.697,697,1,POINT (-62.33498030499999 -32.10407416299995),Aeródromo Estancia El Embrujo,Aeródromo,Estancia El Embrujo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.698,698,1,POINT (-56.10802456599998 -28.52641330499995),Aeroclub Santo Tomé,Aeroclub,Santo Tomé,6,9,IGN/Imagery,IGN
+puntos_de_transporte_aereo_GB001.699,699,1,POINT (-55.12503038799997 -27.51596912599996),Aeródromo Oberá,Aeródromo,Oberá,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.740,740,1,POINT (-66.91461086499999 -28.796193426999935),Aeródromo Anillaco,Aeródromo,Anillaco,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.700,700,1,POINT (-59.21325024399994 -29.727818190999983),Aeródromo Establecimiento La Escondida,Aeródromo,Establecimiento La Escondida,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.701,701,1,POINT (-59.49370277099996 -33.819319664999966),Aeroclub Baradero,Aeroclub,Baradero,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.702,702,1,POINT (-66.23344596099997 -33.33156350899998),Aeródromo Agropecuaria Donovan,Aeródromo,Agropecuaria Donovan,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.703,703,1,POINT (-57.639300789999936 -30.262220449999973),Aeródromo Monte Caseros,Aeródromo,Monte Caseros,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.704,704,1,POINT (-65.55835612699997 -27.77240441699996),,,,6,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.705,705,1,POINT (-58.357092155999965 -29.31869852099993),Aeródromo Estancia Capi Guari,Aeródromo,Estancia Capi Guari,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.706,706,1,POINT (-63.50879160599993 -33.404577021999955),Aeródromo Estancia 10 de Julio,Aeródromo,Estancia 10 de Julio,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.707,707,1,POINT (-66.02527626099999 -26.671452416999955),Aeródromo Santa María,Aeródromo,Santa María,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.708,708,1,POINT (-64.14541172399998 -31.48874509199993),Aeródromo Coronel Olmedo,Aeródromo,Coronel Olmedo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.709,709,1,POINT (-60.55166479799993 -24.729184215999965),Aeródromo Las Lomitas,Aeródromo,Las Lomitas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.710,710,1,POINT (-64.45612282499997 -31.284351555999933),Aeródromo Santa María,Aeródromo,Santa María,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.711,711,1,POINT (-62.04767826999995 -34.198017454999956),Aeródromo Estancia El Carmen,Aeródromo,Estancia El Carmen,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.712,712,1,POINT (-64.17573818799997 -25.08355195699994),Aeródromo Finca El Algarrobal,Aeródromo,Finca El Algarrobal,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.713,713,1,POINT (-65.61692634699995 -27.343188993999945),Aeródromo Concepción,Aeródromo,Concepción,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.715,715,1,POINT (-60.60147769799994 -33.051655703999984),Aeroclub Rosario,Aeroclub,Rosario,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.716,716,1,POINT (-58.67731210799997 -33.74343493699996),Aeródromo Islas del Ibicuy,Aeródromo,Islas del Ibicuy,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.721,721,1,POINT (-65.72027514799998 -44.77866870899993),Aeródromo Camarones,Aeródromo,Camarones,-1,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.722,722,1,POINT (-64.78705494099995 -30.707480071999953),Aeródromo Cruz del Eje,Aeródromo,Cruz del Eje,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.723,723,1,POINT (-54.57713663599998 -26.391159321999965),Aeródromo Eldorado,Aeródromo,Eldorado,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.724,724,1,POINT (-65.15600398199996 -27.036031735999927),Aeródromo Los Tucanes,Aeródromo,Los Tucanes,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.726,726,1,POINT (-60.123353056999974 -31.612921203999974),Aeródromo El Pingo,Aeródromo,El Pingo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.727,727,1,POINT (-58.411300892999975 -28.44002272199998),Aeródromo Estancia Aña Cuá,Aeródromo,Estancia Aña Cuá,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.728,728,1,POINT (-58.52522140499997 -29.21514244499997),Aeródromo Estancia Oscuro,Aeródromo,Estancia Oscuro,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.731,731,1,POINT (-68.87146354599997 -32.96175361599995),Aeródromo La Puntilla,Aeródromo,La Puntilla,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.732,732,1,POINT (-58.31474668399994 -27.304335315999936),Aeródromo Itatí,Aeródromo,Itatí,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.733,733,1,POINT (-57.20586425299996 -28.558323134999966),Aeródromo Estancia Iberá,Aeródromo,Estancia Iberá,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.734,734,1,POINT (-61.576403107999965 -28.728002689999983),Aeródromo La Carreta,Aeródromo,La Carreta,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.735,735,1,POINT (-58.591234773999986 -25.042423783999936),Aeródromo Estancia San Rafael,Aeródromo,Estancia San Rafael,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.736,736,1,POINT (-66.29671622199999 -30.34901005599994),Aeródromo Chamical,Aeródromo,Chamical,6,8,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.737,737,1,POINT (-64.49072400299997 -32.17862548399995),Aeródromo Primer Teniente Mario Nívoli,Aeródromo,Primer Teniente Mario Nívoli,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.738,738,1,POINT (-64.19268140999998 -32.03932796099997),Aeródromo Don Moisés,Aeródromo,Don Moisés,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.739,739,1,POINT (-61.632172983999965 -32.112385632999974),Aeródromo B y B Servicios Agropecuarios,Aeródromo,B y B Servicios Agropecuarios,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.741,741,1,POINT (-61.06174844099996 -33.01146994299995),Aeródromo La Lucía,Aeródromo,La Lucía,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.742,742,1,POINT (-61.01933494899998 -33.00454216299994),Aeródromo Pettilep,Aeródromo,Pettilep,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.743,743,1,POINT (-61.205909478999956 -33.06607453199996),Aeródromo Casilda,Aeródromo,Casilda,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.744,744,1,POINT (-60.843610110999975 -32.88840672099997),Aeródromo Alagro Fumigaciones S.R.L.,Aeródromo,Alagro Fumigaciones S.R.L.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.745,745,1,POINT (-62.41129989799998 -33.241118351999944),Aeroclub Isla Verde,Aeroclub,Isla Verde,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.746,746,1,POINT (-62.67025526599997 -32.485049441999934),Aeródromo La Zulema S.R.L.,Aeródromo,La Zulema S.R.L.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.747,747,1,POINT (-63.79506766999998 -32.75167855799998),Aeródromo General Deheza,Aeródromo,General Deheza,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.749,749,1,POINT (-62.238362525999946 -28.867101674999958),Aeródromo Dutto,Aeródromo,Dutto,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.750,750,1,POINT (-61.55230758399995 -32.517207337999935),Aeródromo Horizonte Aplicaciones Aéreas,Aeródromo,Horizonte Aplicaciones Aéreas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.753,753,1,POINT (-66.48275671299996 -22.704579403999958),Aeródromo Mina Pirquitas,Aeródromo,Mina Pirquitas,6,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.754,754,1,POINT (-65.25420561799996 -24.313180711999962),Aeródromo Puerta de Ávalos,Aeródromo,Puerta de Ávalos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.755,755,1,POINT (-64.76031605199995 -23.784039908999944),Aeródromo Calilegua,Aeródromo,Calilegua,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.756,756,1,POINT (-60.14020223099993 -34.07422513299997),Aeródromo La Cura Malal,Aeródromo,La Cura Malal,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.757,757,1,POINT (-62.48263074399995 -34.845399688999976),Aeródromo Ameghino,Aeródromo,Ameghino,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.758,758,1,POINT (-62.52276466899997 -34.81246908799994),Aeródromo La Chacra,Aeródromo,La Chacra,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.759,759,1,POINT (-63.71804911899994 -35.67430161899995),Aeródromo Cereales Anahí Ruca,Aeródromo,Cereales Anahí Ruca,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.760,760,1,POINT (-58.75314743599995 -38.14077884999995),Aeródromo Nika,Aeródromo,Nika,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.761,761,1,POINT (-59.75826491399994 -35.74090017799995),Aeródromo Abelenda,Aeródromo,Abelenda,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.762,762,1,POINT (-59.33875221799997 -31.01172209899994),Aeródromo La Cautiva,Aeródromo,La Cautiva,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.763,763,1,POINT (-62.436946329999955 -36.97394017199997),Aeródromo Establecimiento La Sistina,Aeródromo,Establecimiento La Sistina,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.764,764,1,POINT (-59.00386454599993 -31.802219373999947),Aeródromo Aerolitoral,Aeródromo,Aerolitoral,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.765,765,1,POINT (-64.42310641399996 -33.943373331999965),Aeródromo Aeromega,Aeródromo,Aeromega,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.766,766,1,POINT (-58.56608836099997 -35.81404811799996),Aeródromo Aeroposta Fumigaciones,Aeródromo,Aeroposta Fumigaciones,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.767,767,1,POINT (-62.30592446199995 -32.35180417199996),Aeródromo Agrícola Vaudagna,Aeródromo,Agrícola Vaudagna,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.768,768,1,POINT (-58.691306021999935 -38.50468842499998),Aeródromo Agropecuaria Ortiz Hermanos,Aeródromo,Agropecuaria Ortiz Hermanos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.769,769,1,POINT (-60.571123170999954 -33.27270113099996),Aeródromo Agroservicios,Aeródromo,Agroservicios,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.770,770,1,POINT (-63.784524113999964 -30.12783282399994),Aeródromo Agua Escondida,Aeródromo,Agua Escondida,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.771,771,1,POINT (-61.86871551799999 -34.800520035999966),Aeródromo Alfredo Sánchez,Aeródromo,Alfredo Sánchez,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.774,774,1,POINT (-64.83581440899997 -25.538612932999968),Aeródromo Alubia,Aeródromo,Alubia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.775,775,1,POINT (-66.38914919999996 -25.572708441999964),Aeródromo Amaicha,Aeródromo,Amaicha,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.776,776,1,POINT (-60.390575109999986 -26.779100649999975),Aeródromo Antonietti Servicios,Aeródromo,Antonietti Servicios,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.778,778,1,POINT (-58.61031301099996 -27.532171480999978),Aeródromo Estancia Cabaña Caa Cupé,Aeródromo,Estancia Cabaña Caa Cupé,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.782,782,1,POINT (-60.16161011699995 -35.450727091999966),Aeródromo Servicios Agroaéreos,Aeródromo,Servicios Agroaéreos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.783,783,1,POINT (-62.78102725399998 -37.21467151899998),Aeródromo Fumagro,Aeródromo,Fumagro,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.784,784,1,POINT (-60.50598737499996 -35.151672219999966),Aeródromo Malfato,Aeródromo,Malfato,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.785,785,1,POINT (-58.29799270299998 -35.183545246999984),Aeroclub Coronel Brandsen,Aeroclub,Coronel Brandsen,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.786,786,1,POINT (-58.08583737499998 -35.094636839999964),Aeródromo Gómez,Aeródromo,Gómez,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.788,788,1,POINT (-64.26318119799998 -31.43582708799994),Aeródromo Capitán D. Omar Darío Gelardi,Aeródromo,Capitán D. Omar Darío Gelardi,6,8,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.789,789,1,POINT (-58.72773616799998 -35.108042910999984),Aeródromo Cañuelas,Aeródromo,Cañuelas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.790,790,1,POINT (-63.766524438999966 -36.55389170099994),Aeródromo Estancia Los Robles,Aeródromo,Estancia Los Robles,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.791,791,1,POINT (-71.45270668099994 -42.47615408099995),Aeródromo Cholila,Aeródromo,Cholila,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.792,792,1,POINT (-67.56052551599998 -45.90324290899997),Aeródromo 13 de Diciembre,Aeródromo,13 de Diciembre,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.793,793,1,POINT (-61.48273886099997 -27.26010892599993),Aeródromo Kalbermatter,Aeródromo,Kalbermatter,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.794,794,1,POINT (-58.43988059299994 -35.56888170399998),Aeródromo La Igualdad,Aeródromo,La Igualdad,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.795,795,1,POINT (-63.40520948499994 -32.28957292699994),Aeródromo Tío Rano,Aeródromo,Tío Rano,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.796,796,1,POINT (-59.44148015999997 -33.03744825799998),Aeródromo Agro Aéreo Gualeguay,Aeródromo,Agro Aéreo Gualeguay,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.797,797,1,POINT (-58.24774650299997 -32.97374101599996),Aeródromo El Potrero,Aeródromo,El Potrero,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.799,799,1,POINT (-59.07836942299997 -34.54881020099998),Aeródromo Luján,Aeródromo,Luján,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.800,800,1,POINT (-58.80638826599994 -38.478160654999954),Aeródromo Iriberri,Aeródromo,Iriberri,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.801,801,1,POINT (-58.792608272999985 -38.57400179799998),Aeródromo Pulverizaciones Aerosur S.R.L.,Aeródromo,Pulverizaciones Aerosur S.R.L.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.802,802,1,POINT (-60.453367035999975 -31.80871897199995),Aeródromo San Benito,Aeródromo,San Benito,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.803,803,1,POINT (-64.37013930899997 -33.934827319999954),Aeródromo Martín Fierro,Aeródromo,Martín Fierro,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.804,804,1,POINT (-59.391415946999984 -34.21115195999994),Aeródromo Haras La Pomme,Aeródromo,Haras La Pomme,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.805,805,1,POINT (-61.90147319499994 -30.319257327999935),Aeródromo Vergnano,Aeródromo,Vergnano,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.806,806,1,POINT (-59.180788458999984 -27.627566030999958),Aeroclub Chaco,Aeroclub,Chaco,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.807,807,1,POINT (-62.014624210999955 -30.77668966699997),Aeródromo Campo San José,Aeródromo,Campo San José,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.808,808,1,POINT (-61.609896799999945 -31.99288738399997),Aeródromo Cañada Rosquín - Stiefel,Aeródromo,Cañada Rosquín - Stiefel,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.809,809,1,POINT (-61.61145627399998 -32.10188961299997),Aeródromo Cañada Rosquín,Aeródromo,Cañada Rosquín,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.810,810,1,POINT (-60.66728889899997 -33.06851712699995),Aeródromo Agroalvear S.R.L.,Aeródromo,Agroalvear S.R.L.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.811,811,1,POINT (-62.46924582899999 -34.83482311699993),Aeródromo Sigfrido Rohr Aviagro S.R.L.,Aeródromo,Sigfrido Rohr Aviagro S.R.L.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.812,812,1,POINT (-58.18872138199998 -37.46305738199993),Aeródromo Estancia La Alborada,Aeródromo,Estancia La Alborada,6,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.813,813,1,POINT (-61.65234250999998 -32.252415507999956),Aeródromo De Bernardo,Aeródromo,De Bernardo,6,9,IGN,IGN
+puntos_de_transporte_aereo_GB001.814,814,1,POINT (-61.33539162899996 -33.81326966599994),Aeródromo Plus Agroservicios Aéreos S.R.L.,Aeródromo,Plus Agroservicios Aéreos S.R.L.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.815,815,1,POINT (-61.90369870899997 -34.484586745999934),Aeródromo Juan Bautista Alberdi,Aeródromo,Juan Bautista Alberdi,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.816,816,1,POINT (-63.305447356999935 -33.387836567999955),Aeródromo Casajus,Aeródromo,Casajus,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.817,817,1,POINT (-64.88456711799995 -26.73255754799993),Aeródromo Don Emilio,Aeródromo,Don Emilio,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.819,819,1,POINT (-64.23376777999994 -24.741005276999942),Aeródromo Aerosoluciones,Aeródromo,Aerosoluciones,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.820,820,1,POINT (-57.87360845499995 -35.872908406999954),Aeródromo Don Alberto,Aeródromo,Don Alberto,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.821,821,1,POINT (-62.12746473699997 -33.78645371699997),Aeródromo Samave,Aeródromo,Samave,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.823,823,1,POINT (-62.44895089199997 -37.52481887199997),Aeroclub Pigüé,Aeroclub,Pigüé,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.824,824,1,POINT (-65.37031724199994 -44.57288227099997),Aeródromo Estancia La Elba,Aeródromo,Estancia La Elba,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.825,825,1,POINT (-62.012486422999984 -37.13877201399998),Aeródromo Estancia La Cabaña,Aeródromo,Estancia La Cabaña,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.826,826,1,POINT (-63.91899263099998 -34.04383523799993),Aeródromo Levagro S.H.,Aeródromo,Levagro S.H.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.827,827,1,POINT (-64.57091933699996 -34.59506693099996),Aeródromo San Andrés,Aeródromo,San Andrés,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.828,828,1,POINT (-62.104380643999946 -30.172531144999937),Aeródromo Miguel A. Godino,Aeródromo,Miguel A. Godino,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.829,829,1,POINT (-62.754894932999946 -36.98015706099994),Aeródromo Estancia La División,Aeródromo,Estancia La División,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.830,830,1,POINT (-59.75400597199996 -25.544948622999982),Aeródromo Estancia Las Doritas,Aeródromo,Estancia Las Doritas,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.831,831,1,POINT (-58.01422713399995 -28.75954429899997),Aeródromo El Mirador,Aeródromo,El Mirador,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.832,832,1,POINT (-58.983556989999954 -37.62546066099998),Aeródromo Establecimiento San Santiago,Aeródromo,Establecimiento San Santiago,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.833,833,1,POINT (-61.777740981999955 -35.43755498599995),Aeródromo Estancia La Pradera,Aeródromo,Estancia La Pradera,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.834,834,1,POINT (-62.75082225299997 -25.181079532999945),Aeródromo Estancia Santo Tomás,Aeródromo,Estancia Santo Tomás,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.835,835,1,POINT (-60.52705178599996 -37.919243464999965),Aeródromo Establecimiento La Argentina,Aeródromo,Establecimiento La Argentina,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.836,836,1,POINT (-61.536924176999946 -34.20793616399993),Aeródromo Criadero,Aeródromo,Criadero,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.837,837,1,POINT (-58.02241516999993 -29.222211495999943),Aeródromo Estancia La Pepa,Aeródromo,Estancia La Pepa,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.838,838,1,POINT (-64.16075450799997 -24.649280355999963),Aeródromo Los Colorados,Aeródromo,Los Colorados,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.839,839,1,POINT (-60.682758759999956 -36.68883233799994),Aeródromo Estancia Santa Dominga,Aeródromo,Estancia Santa Dominga,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.840,840,1,POINT (-61.203910683999936 -37.40463032499997),Aeródromo Estancia Los Tilos,Aeródromo,Estancia Los Tilos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.1069,1069,1,POINT (-59.515792174999945 -51.611688697999966),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.841,841,1,POINT (-60.01138005399997 -29.55539424699998),Aeródromo Colonia Durán,Aeródromo,Colonia Durán,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.842,842,1,POINT (-60.32404602799994 -33.611312647999966),Aeródromo La Leonor,Aeródromo,La Leonor,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.843,843,1,POINT (-63.81500764499998 -35.10851372199994),Aeródromo Estancia Ramón II,Aeródromo,Estancia Ramón II,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.844,844,1,POINT (-59.02995295399995 -29.548077750999937),Aeródromo La Hermenegilda,Aeródromo,La Hermenegilda,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.845,845,1,POINT (-66.07027885599996 -33.78233487899996),Aeródromo Estancia La Moneda,Aeródromo,Estancia La Moneda,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.846,846,1,POINT (-64.99331488399997 -30.87577798999996),Aeródromo La Palmira,Aeródromo,La Palmira,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.847,847,1,POINT (-71.97233074399998 -47.365354637999985),Aeródromo Estancia Suyai,Aeródromo,Estancia Suyai,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.848,848,1,POINT (-65.45575267499999 -34.96539070999995),Aeródromo Santa Paz,Aeródromo,Santa Paz,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.849,849,1,POINT (-65.06141142699994 -32.670851451999965),Aeródromo Establecimiento San Antonio,Aeródromo,Establecimiento San Antonio,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.850,850,1,POINT (-59.59365837299998 -34.165561554999954),Aeródromo Estancia Los Toros,Aeródromo,Estancia Los Toros,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.851,851,1,POINT (-62.572472791999985 -33.53931862999997),Aeródromo Don Carlos,Aeródromo,Don Carlos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.852,852,1,POINT (-60.45403838999994 -35.56654398999996),Aeródromo Estancia La Bellaca,Aeródromo,Estancia La Bellaca,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.853,853,1,POINT (-59.45303934999998 -35.388657869999975),Aeródromo Estancia La Biznaga,Aeródromo,Estancia La Biznaga,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.854,854,1,POINT (-61.715665168999976 -36.074193702999935),Aeródromo Estancia Magdala,Aeródromo,Estancia Magdala,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.855,855,1,POINT (-61.45234432299998 -34.39085503599995),Aeródromo Fortín Acha,Aeródromo,Fortín Acha,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.856,856,1,POINT (-57.71234787499998 -29.11045702599995),Aeródromo Estancia Rincón de San José,Aeródromo,Estancia Rincón de San José,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.857,857,1,POINT (-62.81432104299995 -34.49172119299993),Aeródromo Estancia Los Caldenes,Aeródromo,Estancia Los Caldenes,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.858,858,1,POINT (-61.56083278099999 -34.36813206099998),Aeródromo Estancia Las Balas,Aeródromo,Estancia Las Balas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.859,859,1,POINT (-65.19771046299996 -35.08937213099995),Aeródromo Estancia El Verano,Aeródromo,Estancia El Verano,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.860,860,1,POINT (-58.672694896999985 -32.91407740699998),Aeródromo Estancia Ombúes,Aeródromo,Estancia Ombúes,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.861,861,1,POINT (-61.70824221299995 -37.11514595899996),Aeródromo Estancia Las Nenas,Aeródromo,Estancia Las Nenas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.862,862,1,POINT (-62.05910056899995 -27.02344816599998),Aeródromo El 86,Aeródromo,El 86,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.863,863,1,POINT (-62.39984793499997 -34.206499829999984),Aeródromo Estancia La Barrancosa,Aeródromo,Estancia La Barrancosa,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.864,864,1,POINT (-60.783505822999985 -36.00172336799994),Aeródromo Estancia La Arcadia,Aeródromo,Estancia La Arcadia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.865,865,1,POINT (-69.91811549499994 -50.303410171999985),Aeródromo Estancia San Ramón,Aeródromo,Estancia San Ramón,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.866,866,1,POINT (-59.50358645399996 -32.62666514799997),Aeródromo Estancia El Carmen - Flecha S.A.,Aeródromo,Estancia El Carmen - Flecha S.A.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.867,867,1,POINT (-65.08080658099993 -34.78683816499995),Aeródromo Estancia El Pastor,Aeródromo,Estancia El Pastor,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.868,868,1,POINT (-58.24540647699996 -31.145496028999958),Aeródromo Establecimiento Santa Bárbara,Aeródromo,Establecimiento Santa Bárbara,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.869,869,1,POINT (-58.29550864699996 -32.710489662999976),Aeródromo Estancia Cupalén,Aeródromo,Estancia Cupalén,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.870,870,1,POINT (-62.40256356599997 -27.66553513599996),Aeródromo Quimili,Aeródromo,Quimili,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.871,871,1,POINT (-60.45429335399996 -38.76668212199996),Aeródromo Estancia El Destino,Aeródromo,Estancia El Destino,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.872,872,1,POINT (-57.58423443799995 -37.19553091599994),Aeródromo Estancia Momentos,Aeródromo,Estancia Momentos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.873,873,1,POINT (-59.60332857099996 -35.322061090999966),Aeródromo Britos,Aeródromo,Britos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.874,874,1,POINT (-64.43228992199994 -26.953952405999928),Aeródromo Estancia El Guapo,Aeródromo,Estancia El Guapo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.875,875,1,POINT (-59.542584413999975 -26.809680680999975),Aeródromo El Búfalo,Aeródromo,El Búfalo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.876,876,1,POINT (-70.17156808999994 -51.060934062999934),Aeródromo Estancia La Carolina,Aeródromo,Estancia La Carolina,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.877,877,1,POINT (-63.54459598799997 -34.83869465199996),Aeródromo Estancia La Vanguardia,Aeródromo,Estancia La Vanguardia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.879,879,1,POINT (-64.12153498499998 -35.347663703999956),Aeródromo Danor S.A.,Aeródromo,Danor S.A.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.880,880,1,POINT (-62.299026958999946 -33.45738983399997),Aeródromo Estancia Kilgruman,Aeródromo,Estancia Kilgruman,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.881,881,1,POINT (-62.19612489699995 -28.37318060499996),Aeródromo Estancia La Guardia,Aeródromo,Estancia La Guardia,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.882,882,1,POINT (-61.26057233499995 -27.07509003399997),Aeródromo Aeronorte S.R.L.,Aeródromo,Aeronorte S.R.L.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.883,883,1,POINT (-58.66459331899995 -37.89652043999996),Aeródromo Estancia El Bonete,Aeródromo,Estancia El Bonete,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.884,884,1,POINT (-59.92317013199994 -31.171354013999974),Aeródromo El Raigón,Aeródromo,El Raigón,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.885,885,1,POINT (-62.336071138999955 -34.51103140099997),Aeródromo Establecimiento El Descanso,Aeródromo,Establecimiento El Descanso,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.886,886,1,POINT (-60.74060256399997 -28.95840857199994),Aeródromo La Cruz,Aeródromo,La Cruz,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.887,887,1,POINT (-62.843765392999956 -34.11624602799998),Aeródromo Estancia El Tuyutí,Aeródromo,Estancia El Tuyutí,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.888,888,1,POINT (-57.99944880299995 -38.078046969999946),Aeródromo Estancia La Venancia,Aeródromo,Estancia La Venancia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.889,889,1,POINT (-61.71100691399994 -34.81096655399995),Aeródromo Campo San Eduardo,Aeródromo,Campo San Eduardo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.890,890,1,POINT (-61.281336487999965 -32.562501219999945),Aeródromo Estancia La Merced,Aeródromo,Estancia La Merced,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.891,891,1,POINT (-71.66392201099995 -44.86363037399997),Aeródromo Río Unión,Aeródromo,Río Unión,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.892,892,1,POINT (-63.54277168599998 -33.682861171999946),Aeródromo Cabaña El Rastreador,Aeródromo,Cabaña El Rastreador,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.893,893,1,POINT (-61.764876277999974 -28.285889574999942),Aeródromo El Cuadrado,Aeródromo,El Cuadrado,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.894,894,1,POINT (-59.61457788399997 -27.775519747999965),Aeródromo El 38 S.A.,Aeródromo,El 38 S.A.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.895,895,1,POINT (-57.87497141599994 -28.38432398499998),Aeródromo Estancia San Eugenio,Aeródromo,Estancia San Eugenio,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.896,896,1,POINT (-59.742394838999985 -32.56750260899997),Aeródromo Estancia Las Mercedes,Aeródromo,Estancia Las Mercedes,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.899,899,1,POINT (-69.23850499499997 -42.27657166599994),Aeródromo Gastre,Aeródromo,Gastre,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.900,900,1,POINT (-59.50945047999994 -30.557587491999982),Aeródromo El Pairiri,Aeródromo,El Pairiri,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.901,901,1,POINT (-63.27279402499994 -35.51207016899997),Aeródromo Estancia Don Remigio,Aeródromo,Estancia Don Remigio,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.902,902,1,POINT (-65.39117462199994 -27.93115623799997),Aeródromo Yaquicho - Scarafia,Aeródromo,Yaquicho - Scarafia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.903,903,1,POINT (-62.73722888899994 -33.18684893799997),Aeródromo Biondi Wenseslao Escalante,Aeródromo,Biondi Wenseslao Escalante,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.904,904,1,POINT (-68.43533125599998 -45.91000352899994),Aeródromo Cabo Curioso,Aeródromo,Cabo Curioso,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.905,905,1,POINT (-61.526854122999964 -38.23740121399993),Aeródromo Las Águilas,Aeródromo,Las Águilas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.906,906,1,POINT (-62.43801976199995 -37.922482946999935),Aeródromo Estancia La Josefina,Aeródromo,Estancia La Josefina,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.908,908,1,POINT (-64.64207983299997 -36.90874797999993),Aeródromo El Porvenir de Naico,Aeródromo,El Porvenir de Naico,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.909,909,1,POINT (-63.47633882599996 -24.895644956999945),Aeródromo San Damián,Aeródromo,San Damián,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.910,910,1,POINT (-62.71186457399995 -32.07101907599997),Aeródromo Estancia La Sarah,Aeródromo,Estancia La Sarah,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.911,911,1,POINT (-65.05523177199996 -34.244848855999976),Aeródromo Estancia Las Lomas,Aeródromo,Estancia Las Lomas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.912,912,1,POINT (-62.21607366499995 -31.22908952499995),Aeródromo Establecimiento San Miguel,Aeródromo,Establecimiento San Miguel,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.913,913,1,POINT (-66.29928482199995 -28.462598078999974),Aeródromo El Morterito,Aeródromo,El Morterito,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.914,914,1,POINT (-61.51728048799998 -34.06900474899993),Aeródromo Establecimiento El Trajín,Aeródromo,Establecimiento El Trajín,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.915,915,1,POINT (-59.23126632999998 -26.65277716199995),Aeródromo Los Correntinos,Aeródromo,Los Correntinos,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.916,916,1,POINT (-64.16034764999995 -35.67227894699994),Aeródromo Estancia El Tigre,Aeródromo,Estancia El Tigre,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.917,917,1,POINT (-62.45644250599997 -36.91653672199993),Aeródromo Estancia La Mercedes,Aeródromo,Estancia La Mercedes,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.918,918,1,POINT (-61.74792998999993 -35.57219903999993),Aeródromo Campo Santa Ana,Aeródromo,Campo Santa Ana,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.919,919,1,POINT (-64.79242146599995 -37.660836459999985),Aeródromo Estancia La Escondida,Aeródromo,Estancia La Escondida,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.920,920,1,POINT (-63.689666691999946 -24.497567233999973),Aeródromo La Charqueada,Aeródromo,La Charqueada,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.921,921,1,POINT (-62.020580620999965 -26.225975680999966),Aeródromo Los Pirpintos,Aeródromo,Los Pirpintos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.922,922,1,POINT (-63.639929123999934 -34.90961681799996),Aeródromo Santa Felicitas,Aeródromo,Santa Felicitas,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.923,923,1,POINT (-63.738135521999936 -33.048877740999956),Aeródromo Estancia El Pericón,Aeródromo,Estancia El Pericón,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.924,924,1,POINT (-64.12244512699993 -32.58215236899997),Aeródromo Estancia La Morocha,Aeródromo,Estancia La Morocha,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.926,926,1,POINT (-60.16535046299998 -37.597876063999934),Aeródromo Haras La Quebrada,Aeródromo,Haras La Quebrada,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.927,927,1,POINT (-65.07289923799993 -28.35246880699998),Aeródromo Las Tolderías,Aeródromo,Las Tolderías,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.928,928,1,POINT (-64.16812759899994 -23.38337086599995),Aeródromo Finca Pozo Mulato,Aeródromo,Finca Pozo Mulato,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.930,930,1,POINT (-61.82306647799999 -34.98159288199997),Aeródromo Mitikile,Aeródromo,Mitikile,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.931,931,1,POINT (-61.79881606799995 -32.41855842899997),Aeródromo Bouquet,Aeródromo,Bouquet,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.932,932,1,POINT (-60.10096904399995 -30.69997824099994),Aeródromo San Joaquín II,Aeródromo,San Joaquín II,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.933,933,1,POINT (-62.853897072999985 -26.451542235999966),Aeródromo Pilar S.A.,Aeródromo,Pilar S.A.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.934,934,1,POINT (-62.793391405999955 -34.97024178999993),Aeródromo Estancia El Renacimiento,Aeródromo,Estancia El Renacimiento,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.935,935,1,POINT (-64.99986942299995 -34.61089667099998),Aeródromo Zañartu,Aeródromo,Zañartu,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.936,936,1,POINT (-59.05855547899995 -38.314134525999975),Aeródromo El Danubio - La Dulce,Aeródromo,El Danubio - La Dulce,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.937,937,1,POINT (-65.24783753399998 -38.20250680099997),Aeródromo La Adelina,Aeródromo,La Adelina,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.938,938,1,POINT (-64.34145394399997 -24.99279290499993),Aeródromo Finca Porvenir 8,Aeródromo,Finca Porvenir 8,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.939,939,1,POINT (-63.98978844299995 -24.909413729999983),Aeródromo Finca Porvenir 5,Aeródromo,Finca Porvenir 5,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.940,940,1,POINT (-70.48571731799996 -47.93647621499997),Aeródromo Estancia El Tranquilo,Aeródromo,Estancia El Tranquilo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.941,941,1,POINT (-63.20899793199993 -33.21105125099996),Aeródromo Estancia La Paz,Aeródromo,Estancia La Paz,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.942,942,1,POINT (-63.20831817699997 -36.05468376399995),Aeródromo Estancia El Descanso,Aeródromo,Estancia El Descanso,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.943,943,1,POINT (-59.83483306699998 -32.633144484999946),Aeródromo Estancia San Fernando,Aeródromo,Estancia San Fernando,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.944,944,1,POINT (-64.45243086199997 -27.09471435399996),Aeródromo Establecimiento Don Corto,Aeródromo,Establecimiento Don Corto,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.945,945,1,POINT (-59.52516786199993 -32.92303298799993),Aeródromo Estancia Las Cabezas,Aeródromo,Estancia Las Cabezas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.946,946,1,POINT (-64.64915347799996 -26.74364200599996),Aeródromo Piedrabuena,Aeródromo,Piedrabuena,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.947,947,1,POINT (-64.12879730299994 -35.173283572999935),Aeródromo Falucho,Aeródromo,Falucho,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.948,948,1,POINT (-58.451553633999936 -32.72910244499997),Aeródromo Centella,Aeródromo,Centella,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.949,949,1,POINT (-64.71899946599996 -34.59590866399998),Aeródromo Estancia Los Porteños,Aeródromo,Estancia Los Porteños,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.950,950,1,POINT (-67.20599661699998 -38.10471313599993),Aeródromo Villa Casa de Piedra,Aeródromo,Villa Casa de Piedra,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.951,951,1,POINT (-67.97797835499995 -36.34577680499996),Aeródromo La Humada,Aeródromo,La Humada,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.952,952,1,POINT (-64.93607301599997 -29.03888774799998),Aeródromo Tali Sumaj,Aeródromo,Tali Sumaj,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.953,953,1,POINT (-62.01144794299995 -38.210714906999954),Aeródromo El Resueyo,Aeródromo,El Resueyo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.955,955,1,POINT (-64.67966684599998 -25.344613849999973),Aeródromo Estancia Miraflores,Aeródromo,Estancia Miraflores,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.957,957,1,POINT (-66.95882306199996 -42.438169254999934),Aeródromo Telsen,Aeródromo,Telsen,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.959,959,1,POINT (-63.86304981899997 -24.943638025999974),Aeródromo Salta Forestal EcoDesarrollo,Aeródromo,Salta Forestal EcoDesarrollo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.960,960,1,POINT (-57.90158246599998 -29.66011801899998),Aeródromo Estancia El Yaguarí,Aeródromo,Estancia El Yaguarí,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.961,961,1,POINT (-59.463516684999945 -25.460951686999977),Aeródromo Establecimiento El Palomar,Aeródromo,Establecimiento El Palomar,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.962,962,1,POINT (-71.61221506199996 -46.55664304599998),Aeródromo Municipalidad de Los Antiguos,Aeródromo,Municipalidad de Los Antiguos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.963,963,1,POINT (-65.07117096399998 -35.781134218999966),Aeródromo Establecimiento La Gleba,Aeródromo,Establecimiento La Gleba,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.964,964,1,POINT (-62.51390545999993 -33.927770013999975),Aeródromo Estancia Las Palmas,Aeródromo,Estancia Las Palmas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.965,965,1,POINT (-64.08502083799993 -38.90420513299995),Aeródromo La Adela,Aeródromo,La Adela,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.966,966,1,POINT (-65.54490386499998 -36.83980877999994),Aeródromo Establecimiento San Eduardo,Aeródromo,Establecimiento San Eduardo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.967,967,1,POINT (-62.47115109499998 -34.02032963499994),Aeródromo Estancia Las Semillas,Aeródromo,Estancia Las Semillas,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.968,968,1,POINT (-58.31703927299998 -36.881053433999966),Aeródromo Estancia Juncalito,Aeródromo,Estancia Juncalito,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.969,969,1,POINT (-61.814657000999944 -26.456870354999978),Aeródromo El Toba,Aeródromo,El Toba,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.970,970,1,POINT (-61.73175222799995 -34.99598863399996),Aeródromo Mirador,Aeródromo,Mirador,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.971,971,1,POINT (-58.46915926799994 -36.16011878899997),Aeródromo Chapalauquen,Aeródromo,Chapalauquen,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.972,972,1,POINT (-57.55001551399994 -28.166713025999968),Aeródromo Santa Julia,Aeródromo,Santa Julia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.973,973,1,POINT (-61.064814998999964 -34.44488007099994),Aeródromo Lamaine,Aeródromo,Lamaine,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.975,975,1,POINT (-60.37221002899997 -36.321747581999944),Aeródromo Estancia La Noria,Aeródromo,Estancia La Noria,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.976,976,1,POINT (-58.47336830599994 -38.51395209999998),Aeródromo Bahía de los Moros,Aeródromo,Bahía de los Moros,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.977,977,1,POINT (-54.106333191999965 -27.184423700999957),Aeródromo Salto del Moconá,Aeródromo,Salto del Moconá,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.978,978,1,POINT (-65.92065306599994 -38.774432686999944),Aeródromo Estancia Santa Nicolasa,Aeródromo,Estancia Santa Nicolasa,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.979,979,1,POINT (-58.30600009999995 -36.75023765099996),Aeródromo Estancia La Providencia,Aeródromo,Estancia La Providencia,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.980,980,1,POINT (-57.80995845899997 -36.70598843099998),Aeródromo Establecimiento San Pedro,Aeródromo,Establecimiento San Pedro,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.981,981,1,POINT (-64.71391903799997 -37.54174389399998),Aeródromo Roberto Trappa,Aeródromo,Roberto Trappa,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.982,982,1,POINT (-64.91784508699993 -37.931204685999944),Aeródromo La Matilde,Aeródromo,La Matilde,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.983,983,1,POINT (-60.648780629999976 -35.83714872499996),Aeródromo Estancia El Pajonal,Aeródromo,Estancia El Pajonal,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.984,984,1,POINT (-64.47773743599998 -23.625953094999943),Aeródromo Loma S.A.,Aeródromo,Loma S.A.,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.985,985,1,POINT (-61.97990875499994 -33.85775533999998),Aeródromo Establecimiento San Carlos,Aeródromo,Establecimiento San Carlos,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.986,986,1,POINT (-62.906576179999945 -26.958731993999947),Aeródromo La Luisa,Aeródromo,La Luisa,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.987,987,1,POINT (-61.039565951999975 -24.375401310999962),Aeródromo Liag Argentina,Aeródromo,Liag Argentina,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.988,988,1,POINT (-61.46237101199995 -32.82970675399997),Aeródromo Don Katy,Aeródromo,Don Katy,-1,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.989,989,1,POINT (-62.73588515899996 -33.52382980599998),Aeródromo Luis Giordanengo,Aeródromo,Luis Giordanengo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.990,990,1,POINT (-60.827046311999936 -34.13980286399993),Aeródromo Miraflores,Aeródromo,Miraflores,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.991,991,1,POINT (-62.975784259999955 -33.48813760099995),Aeródromo La Beba,Aeródromo,La Beba,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.992,992,1,POINT (-71.17069857499996 -39.702611857999955),Aeródromo Hostería San Huberto,Aeródromo,Hostería San Huberto,6,9,ESRI-World_Imagery/IGN01/ANAC/Ministerio de Transporte de la Nación,IGN
+puntos_de_transporte_aereo_GB001.997,997,1,POINT (-71.17797738999997 -41.09663967999995),Aeródromo Lago Nahuel Huapi,Aeródromo,Lago Nahuel Huapi,6,9,IGN04/Ministerio de Transporte de la Nación/Dir. Geografía IGN,IGN
+puntos_de_transporte_aereo_GB001.999,999,1,POINT (-69.39273003199997 -37.807820137999954),,,,-1,-1,ESRI-World_Imagery-2010,IGN
+puntos_de_transporte_aereo_GB001.1000,1000,1,POINT (-69.29428498299995 -37.36522981899998),Aeródromo Yacimiento El Trapial,Aeródromo,Yacimiento El Trapial,6,9,IGN04/IGN01,IGN
+puntos_de_transporte_aereo_GB001.1001,1001,1,POINT (-70.01007162399998 -40.19208211999995),Aeródromo Piedra del Águila,Aeródromo,Piedra del Águila,6,9,DPCeIT Neuquén/Imagery/IGN01/IGN04/IGN Dirección de Geografía/ANAC,IGN
+puntos_de_transporte_aereo_GB001.1005,1005,1,POINT (-58.01432558699997 -30.802237839999975),Aeródromo Chajarí Sur,Aeródromo,Chajarí Sur,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.1006,1006,1,POINT (-64.52954719899998 -32.20687572999998),Aeródromo Villa Amancay - Hallpa Huayra,Aeródromo,Villa Amancay - Hallpa Huayra,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.1007,1007,1,POINT (-59.79094103899996 -35.327814771999954),Aeródromo Norberto de la Riestra,Aeródromo,Norberto de la Riestra,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.1008,1008,1,POINT (-61.409903001999965 -35.670573729999944),Aeródromo Haydée,Aeródromo,Haydée,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.1009,1009,1,POINT (-61.997315184999934 -35.13598999599998),Aeródromo Agroaéreo,Aeródromo,Agroaéreo,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.1010,1010,1,POINT (-70.22305146399998 -37.44417906799998),Aeródromo Comandante Oscar Raúl Reguera,Aeródromo,Comandante Oscar Raúl Reguera,6,9,Esri-World_Imagery/IGN01/IGN04,IGN
+puntos_de_transporte_aereo_GB001.1012,1012,1,POINT (-70.33657754699993 -38.53843438699994),Aeródromo Las Lajas,Aeródromo,Las Lajas,-1,-1,Esri-World_Imagery,IGN
+puntos_de_transporte_aereo_GB001.1013,1013,1,POINT (-70.10238042799995 -37.95548201599996),,,,-1,-1,Esri_World_Imagery,IGN
+puntos_de_transporte_aereo_GB001.1014,1014,1,POINT (-71.34189440999995 -40.333532779999985),Aeródromo Parque Diana,Aeródromo,Parque Diana,6,9,IGN01/IGN04/Ministerio de Transporte de la Nación,IGN
+puntos_de_transporte_aereo_GB001.1017,1017,1,POINT (-58.294977511999946 -26.300786253999945),Aeroclub Formosa,Aeroclub,Formosa,6,9,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB001.1021,1021,1,POINT (-70.74204899999995 -36.995789773999945),Aeródromo Las Ovejas,Aeródromo,Las Ovejas,6,9,ESRI-World_Imagery/IGN04/Geografía,IGN
+puntos_de_transporte_aereo_GB001.1022,1022,1,POINT (-70.52948982099997 -38.45555450599994),,,,-1,-1,Esri-World_Imagery,IGN
+puntos_de_transporte_aereo_GB001.1023,1023,1,POINT (-58.77346368899998 -34.92209974899998),Aeródromo Estancia La Totona,Aeródromo,Estancia La Totona,-1,9,Google Earth,IGN
+puntos_de_transporte_aereo_GB001.1026,1026,1,POINT (-68.73223040999994 -38.41464158699995),Aeródromo Loma de la Lata (Y.P.F.),Aeródromo,Loma de la Lata (Y.P.F.),6,9,IGN01/IGN04/IGN Dirección de Geografía,IGN
+puntos_de_transporte_aereo_GB001.1027,1027,1,POINT (-70.97221298399995 -40.39174545099996),Aeródromo Caleufú,Aeródromo,Caleufú,6,9,IGN01/IGN Dirección de Geografía/Ministerio de Transporte de la Nación,IGN
+puntos_de_transporte_aereo_GB001.1028,1028,1,POINT (-70.82894018399998 -40.22972293899994),,,,2,9,IGN Dir. Geografía,IGN
+puntos_de_transporte_aereo_GB001.1029,1029,1,POINT (-70.99988617399998 -39.101125810999974),,,,6,9,IGN04/IGN Dirección de Geografía,IGN
+puntos_de_transporte_aereo_GB001.1030,1030,1,POINT (-70.10346600899999 -38.97374524899993),Aeródromo Vicecomodoro Mario Luis Olezza,Aeródromo,Vicecomodoro Mario Luis Olezza,6,9,IGN01/IGN04/ANAC/Ministerio de Transporte//IGN Dirección de Geografía/Fundación Marambio,IGN
+puntos_de_transporte_aereo_GB001.1033,1033,1,POINT (-68.03714213999996 -38.801226493999934),Aeroclub Cinco Saltos,Aeroclub,Cinco Saltos,6,9,Esri-Word_Imagery/IGN04/IGN Dirección de Geografía/Sitio Web de la Institución,IGN
+puntos_de_transporte_aereo_GB001.1035,1035,1,POINT (-67.99350037199997 -38.89381981099996),Aeródromo Cipolletti,Aeródromo,Cipolletti,6,9,Esri-Word_Imagery/IGN04/ANAC,IGN
+puntos_de_transporte_aereo_GB001.1036,1036,1,POINT (-70.71472333599996 -41.12642071799996),,,,2,-1,Esri-Word_Imagery,IGN
+puntos_de_transporte_aereo_GB001.1037,1037,1,POINT (-69.04728703599994 -36.85034490499993),,,,-1,-1,Esri World Imagery,IGN
+puntos_de_transporte_aereo_GB001.1038,1038,1,POINT (-70.64289049799999 -38.08010881599995),Aeródromo Loncopué Juan Ricardo La Ruffa,Aeródromo,Loncopué Juan Ricardo La Ruffa,-1,-1,Esri-World_Imagery,IGN
+puntos_de_transporte_aereo_GB001.1039,1039,1,POINT (-68.54568949699996 -37.846225570999934),,,,-1,-2,ESRI-World_Imagery_2010,IGN
+puntos_de_transporte_aereo_GB001.1040,1040,1,POINT (-68.54564666699997 -37.84649682999998),,,,-1,-2,ESRI-World_Imagery_2010,IGN
+puntos_de_transporte_aereo_GB001.1041,1041,1,POINT (-68.53083452199996 -37.84173552799996),,,,-1,-2,ESRI-World_Imagery_2010,IGN
+puntos_de_transporte_aereo_GB001.1042,1042,1,POINT (-68.53875550999999 -37.84412569699998),,,,-1,-2,ESRI-World_Imagery_2010,IGN
+puntos_de_transporte_aereo_GB001.1043,1043,1,POINT (-68.52396235099997 -37.88812364499995),,,,-1,-2,ESRI-World_Imagery_2010,IGN
+puntos_de_transporte_aereo_GB001.1044,1044,1,POINT (-68.36277554499998 -38.19319457299997),,,,-1,-1,Esri-World_imagery,IGN
+puntos_de_transporte_aereo_GB001.1045,1045,1,POINT (-68.22285077599997 -38.147616993999975),,,,-1,-1,Esri-World_imagery,IGN
+puntos_de_transporte_aereo_GB001.1046,1046,1,POINT (-68.18019251699997 -38.29391494199996),,,,-1,-1,Esri-World_imagery,IGN
+puntos_de_transporte_aereo_GB001.1048,1048,1,POINT (-60.534799643999975 -52.205609109999955),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1049,1049,1,POINT (-60.28263535299993 -52.09106690899995),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1050,1050,1,POINT (-60.85264432099996 -52.094473139999934),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1051,1051,1,POINT (-58.85868641099995 -52.18055139399996),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1052,1052,1,POINT (-59.369684279999944 -52.123661571999946),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1053,1053,1,POINT (-59.75847932299996 -52.34956043799997),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1054,1054,1,POINT (-59.74335239399994 -52.229710383999986),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1055,1055,1,POINT (-59.07684265299997 -52.42577983199993),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1056,1056,1,POINT (-60.90508142099998 -51.875077928999985),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1057,1057,1,POINT (-60.417761103999965 -51.75425396299994),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1059,1059,1,POINT (-60.59193703699998 -51.26373347499998),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1060,1060,1,POINT (-58.78563299999996 -51.96473599999996),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1061,1061,1,POINT (-59.042295998999975 -51.57544923299997),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1062,1062,1,POINT (-58.61220054299997 -51.45992792399994),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1063,1063,1,POINT (-58.97982602299999 -51.820022252999934),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1064,1064,1,POINT (-59.00295214399995 -51.50199630099996),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1065,1065,1,POINT (-60.06172357199995 -51.71880090199994),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1066,1066,1,POINT (-60.06272578399995 -51.934408453999936),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1067,1067,1,POINT (-59.610090999999954 -51.309395999999936),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1068,1068,1,POINT (-60.08680810799996 -51.37834777799998),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1072,1072,1,POINT (-58.45827082399995 -51.99581269099997),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1073,1073,1,POINT (-58.37894699499998 -51.436801482999954),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1080,1080,1,POINT (-60.53223581399993 -51.75622806599995),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1081,1081,1,POINT (-60.45103427399994 -51.82879252999993),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1082,1082,1,POINT (-61.28019424099995 -51.74743528099998),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1083,1083,1,POINT (-61.23483676799998 -51.840590273999965),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1084,1084,1,POINT (-60.063335294999945 -51.95495198699996),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1085,1085,1,POINT (-60.68537703699997 -51.34544621699996),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1086,1086,1,POINT (-60.42322054899995 -51.42087925699997),,,,-1,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB001.1087,1087,1,POINT (-59.122603046999984 -52.44185593799995),,,,-1,-1,Imagery,IGN

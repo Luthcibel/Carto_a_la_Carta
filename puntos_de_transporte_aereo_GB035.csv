@@ -1,0 +1,150 @@
+FID,gid,entidad,geom,fna,gna,nam,fun,fdc,sag
+puntos_de_transporte_aereo_GB035.6,6,2,POINT (-68.28025003299996 -52.52251713199996),Heliplataforma Barcaza Yagana,Heliplataforma,Barcaza Yagana,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.7,7,2,POINT (-68.31094506999995 -52.549497078999934),Heliplataforma Equipo Modular M - 10,Heliplataforma,Equipo Modular M - 10,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.8,8,2,POINT (-68.25200083499993 -52.570531760999984),Heliplataforma AM 5,Heliplataforma,Am 5,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.9,9,2,POINT (-68.38437175299998 -52.53137166299996),Heliplataforma AM 1,Heliplataforma,AM 1,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.11,11,2,POINT (-58.60191584399996 -34.79172016599995),Helipuerto Campanópolis,Helipuerto,Campanópolis,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.29,29,2,POINT (-65.37221100599999 -24.83618364299997),Helipuerto Temet,Helipuerto,Temet,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.39,39,2,POINT (-57.92194534999999 -34.92456419599995),Helipuerto Hospital Interzonal General de Agudos General San Martín,Helipuerto,Hospital Interzonal General de Agudos General San Martín,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.40,40,2,POINT (-58.21245774799996 -34.78128120499997),Helipuerto Hospital Zonal General de Agudos Descentralizado Evita Pueblo,Helipuerto,Hospital Zonal General de Agudos Descentralizado Evita Pueblo,6,IGN,IGN
+puntos_de_transporte_aereo_GB035.51,51,2,POINT (-60.709189435999974 -32.85177789199997),Helipuerto Hospital Eva Perón,Helipuerto,Hospital Eva Perón,6,IGN/Ministerio de Transporte,IGN
+puntos_de_transporte_aereo_GB035.56,56,2,POINT (-64.34374526499994 -31.43978199399993),Helipuerto Berrini,Helipuerto,Berrini,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.57,57,2,POINT (-64.19030257299994 -31.440758666999955),Helipuerto Ciudad Universitaria,Helipuerto,Ciudad Universitaria,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.58,58,2,POINT (-64.39777842099994 -31.633107407999944),Helipuerto Oreste Berta,Helipuerto,Oreste Berta,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.59,59,2,POINT (-68.57940385199998 -33.099224154999945),Helipuerto Transener S.A.,Helipuerto,Transener S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.60,60,2,POINT (-71.48015632799996 -41.74724743899998),,,,6,IGN,IGN
+puntos_de_transporte_aereo_GB035.66,66,2,POINT (-62.294013071999984 -38.774082773999965),Helipuerto PBB Polisur S.A.,Helipuerto,PBB Polisur S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.67,67,2,POINT (-68.26617978199994 -53.323032474999934),Helipuerto Planta Cruz del Sur,Helipuerto,Planta Cruz del Sur,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.68,68,2,POINT (-58.24040231899994 -32.548167390999936),Helipuerto Concepción del Uruguay - Talitas,Helipuerto,Concepción del Uruguay - Talitas,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.94,94,2,POINT (-58.817493440999954 -27.475989450999975),Helipuerto Hospital Pediátrico Juan Pablo II,Helipuerto,Hospital Pediátrico Juan Pablo II,6,IGN,IGN
+puntos_de_transporte_aereo_GB035.156,156,2,POINT (-63.22385010399995 -32.437646496999946),Helipuerto Dayry Partners Americas Manufacturing Argentina S.A.,Helipuerto,Dayry Partners Americas Manufacturing Argentina S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.157,157,2,POINT (-58.863602593999985 -34.40464141499996),Helipuerto Las Chacritas,Helipuerto,Las Chacritas,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.158,158,2,POINT (-58.50556307299996 -34.55782253599995),Helipuerto CITEDEF,Helipuerto,CITEDEF,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.159,159,2,POINT (-62.64203232699998 -35.91321100499994),Helipuerto Estancia La Chacota,Helipuerto,Estancia La Chacota,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.160,160,2,POINT (-58.96637263699995 -37.39367448099995),Helipuerto Estancia La Pascuala,Helipuerto,Estancia La Pascuala,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.161,161,2,POINT (-58.50660751299995 -34.41493616399998),Helipuerto Isla Santa Mónica,Helipuerto,Isla Santa Mónica,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.162,162,2,POINT (-58.51074310399997 -34.17098261999996),Helipuerto Paraná Miní,Helipuerto,Paraná Miní,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.163,163,2,POINT (-59.449413224999944 -34.44883330499994),Helipuerto Hospital Municipal San Andrés de Giles,Helipuerto,Hospital Municipal San Andrés de Giles,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.164,164,2,POINT (-58.788205793999964 -35.05837901899997),Helipuerto Cañuelas Gas S.A.,Helipuerto,Cañuelas Gas S.A.,6,IGN,IGN
+puntos_de_transporte_aereo_GB035.165,165,2,POINT (-58.999345440999946 -34.17440944499998),Helipuerto Transener S.A.,Helipuerto,Transener S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.166,166,2,POINT (-59.170276350999984 -34.307083072999944),Helipuerto Las Araucarias,Helipuerto,Las Araucarias,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.167,167,2,POINT (-59.118615999999975 -34.28159999999997),Helipuerto Los Fresnos,Helipuerto,Los Fresnos,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.168,168,2,POINT (-58.97249747699993 -34.43315163899996),Helipuerto Pilar Golf - Piero Vara,Helipuerto,Pilar Golf - Piero Vara,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.169,169,2,POINT (-58.836717497999985 -34.44445954599996),Helipuerto Parque Memorial,Helipuerto,Parque Memorial,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.170,170,2,POINT (-59.015210439999976 -34.50073015999993),Helipuerto La Superba,Helipuerto,La Superba,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.171,171,2,POINT (-62.83510728999994 -32.586158128999955),Helipuerto Morrison,Helipuerto,Morrison,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.172,172,2,POINT (-58.84092799999996 -34.60046599999998),Helipuerto Country Club San Diego,Helipuerto,Country Club San Diego,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.173,173,2,POINT (-58.75180995799997 -34.63420193099995),Helipuerto Heliwest,Helipuerto,Heliwest,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.174,174,2,POINT (-58.970873591999975 -34.53325847699995),Helipuerto Sol de Agosto,Helipuerto,Sol de Agosto,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.175,175,2,POINT (-59.045916757999976 -34.55735666199996),Helipuerto HOMAQ,Helipuerto,HOMAQ,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.176,176,2,POINT (-57.99190379999993 -34.94079863899998),Helipuerto Ecodyma S.C.A.,Helipuerto,Ecodyma S.C.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.177,177,2,POINT (-57.89308715499993 -34.95982477599995),Helipuerto Dirección Provincial de Aeronavegación Oficial,Helipuerto,Dirección Provincial de Aeronavegación Oficial,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.178,178,2,POINT (-58.900442365999936 -34.27045756899997),Helipuerto La Reserva Cardales Country Club,Helipuerto,La Reserva Cardales Country Club,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.179,179,2,POINT (-58.557741557999975 -34.73190557799995),Helipuerto Terminal Y.P.F.,Helipuerto,Terminal Y.P.F.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.180,180,2,POINT (-60.15957889599997 -35.42323698599995),Helipuerto Saturnino Unzué,Helipuerto,Saturnino Unzué,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.181,181,2,POINT (-58.19545051199998 -34.81551973599994),Helipuerto Manuel Afonso,Helipuerto,Manuel Afonso,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.182,182,2,POINT (-58.73407738999998 -34.44592846299997),Helipuerto Miraflores Country Club,Helipuerto,Miraflores Country Club,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.187,187,2,POINT (-63.07998102399995 -35.081702003999965),Helipuerto San Isidro Labrador II,Helipuerto,San Isidro Labrador II,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.188,188,2,POINT (-58.658297018999974 -34.776314415999934),Helipuerto Parque Lar de Paz S.A.,Helipuerto,Parque Lar de Paz S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.189,189,2,POINT (-58.25026226199998 -34.91691127499996),Helipuerto Colonia La Capilla,Helipuerto,Colonia La Capilla,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.190,190,2,POINT (-64.43993480199998 -32.22946385999995),Helipuerto Central Nuclear Embalse,Helipuerto,Central Nuclear Embalse,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.201,201,2,POINT (-58.719854614999974 -34.912361515999976),Helipuerto Transener S.A.,Helipuerto,Transener S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.202,202,2,POINT (-58.60693358899994 -34.492674946999955),Helipuerto Tecnocopter S.A.,Helipuerto,Tecnocopter S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.203,203,2,POINT (-59.31593089099994 -34.23274508399993),Helipuerto El Capricho,Helipuerto,El Capricho,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.238,238,2,POINT (-58.60691424399994 -34.49753261899997),Helipuerto Helicenter,Helipuerto,Helicenter,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.249,249,2,POINT (-60.72638563999993 -32.71913452999996),Helipuerto Cooperativa de Trabajos Portuarios Ltda.,Helipuerto,Cooperativa de Trabajos Portuarios Ltda.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.302,302,2,POINT (-59.721485712999936 -34.33843758199998),Helipuerto San Joaquín,Helipuerto,San Joaquín,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.303,303,2,POINT (-64.49703699999998 -31.41414999999995),Helipuerto Norberto Cordeiro,Helipuerto,Norberto Cordeiro,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.304,304,2,POINT (-60.24938362299997 -33.35895027399994),Helipuerto Miguel Colombise,Helipuerto,Miguel Colombise,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.305,305,2,POINT (-65.41548188799999 -24.77286338999994),Helipuerto Hospital Público Materno Infantil,Helipuerto,Hospital Público Materno Infantil,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.306,306,2,POINT (-65.45093694799994 -24.780694093999955),Helipuerto Centro Cívico Grand Bourg,Helipuerto,Centro Cívico Grand Bourg,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.307,307,2,POINT (-65.49536903699993 -24.77035499899995),Helipuerto Finca Las Costas,Helipuerto,Finca Las Costas,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.308,308,2,POINT (-59.764776807999965 -29.46149234899997),Helipuerto Transener S.A.,Helipuerto,Transener S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.309,309,2,POINT (-65.05827170599997 -29.26274325099996),Helipuerto Transener S.A.,Helipuerto,Transener S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.310,310,2,POINT (-70.41203348299996 -31.75998110699993),Helipuerto Pachón Minera S.A.,Helipuerto,Pachón Minera S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.311,311,2,POINT (-60.52126499999997 -31.73002699999995),Helipuerto Hospital Materno Infantil San Roque,Helipuerto,Hospital Materno Infantil San Roque,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.319,319,2,POINT (-68.86776050199995 -32.878390915999944),Helipuerto Policía de la Provincia de Mendoza,Helipuerto,Policía de la Provincia de Mendoza,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.320,320,2,POINT (-63.91387328199994 -31.33918602899996),Helipuerto Transener S.A.,Helipuerto,Transener S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.321,321,2,POINT (-66.06641649099998 -32.36664929699998),Helipuerto Transener S.A.,Helipuerto,Transener S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.322,322,2,POINT (-56.65831430999998 -27.55859094999994),Helipuerto Transener S.A.,Helipuerto,Transener S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.323,323,2,POINT (-65.16361215799998 -26.993441788999974),Helipuerto Transener S.A.,Helipuerto,Transener S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.335,335,2,POINT (-58.60805651299995 -34.49607339199997),Helipuerto Timen S.A.,Helipuerto,Timen S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.336,336,2,POINT (-58.642179847999955 -34.439648001999956),Helipuerto Nordelta,Helipuerto,Nordelta,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.337,337,2,POINT (-58.655782786999964 -34.37523658099997),Helipuerto Villa La Ñata,Helipuerto,Villa La Ñata,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.341,341,2,POINT (-64.19951524999993 -31.408174102999965),Helipuerto Policía Provincial de Córdoba,Helipuerto,Policía Provincial de Córdoba,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.342,342,2,POINT (-68.57235128299993 -52.73871889999998),Helipuerto Total Austral S.A.,Helipuerto,Total Austral S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.343,343,2,POINT (-69.91757480499996 -50.303060552999966),Helipuerto Estancia San Ramón,Helipuerto,Estancia San Ramón,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.350,350,2,POINT (-68.40794732999996 -52.33027544299995),Helipuerto BRM Cabo Vírgenes,Helipuerto,BRM Cabo Vírgenes,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.351,351,2,POINT (-68.35553047699995 -52.89349689699998),Helipuerto Río Cullen - Total Austral S.A.,Helipuerto,Río Cullen - Total Austral S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.352,352,2,POINT (-67.21302667999998 -54.233591385999944),Helipuerto Estancia Río Ewan,Helipuerto,Estancia Río Ewan,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.359,359,2,POINT (-71.60769733999996 -41.703413713999964),Helipuerto Hidden Lake S.A.,Helipuerto,Hidden Lake S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.360,360,2,POINT (-71.96890788899998 -51.68642909199997),Helipuerto Estancia Santa Ana,Helipuerto,Estancia Santa Ana,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.366,366,2,POINT (-65.68875579999997 -39.566668152999966),Helipuerto Transener S.A.,Helipuerto,Transener S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.405,405,2,POINT (-58.42227486599995 -34.59672619799994),Helipuerto Sanatorio Güemes,Helipuerto,Sanatorio Güemes,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.381,381,2,POINT (-60.01835929899994 -36.04421124999993),Helipuerto Unidad Penitenciaria N° 30,Helipuerto,Unidad Penitenciaria N° 30,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.397,397,2,POINT (-56.67878586499995 -36.66696605399994),Helipuerto La Caldera,Helipuerto,La Caldera,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.398,398,2,POINT (-64.33035456599998 -32.360604630999944),,,,6,IGN,IGN
+puntos_de_transporte_aereo_GB035.399,399,2,POINT (-58.351560640999935 -34.627881989999935),Helipuerto Dársena Sur,Helipuerto,Dársena Sur,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.400,400,2,POINT (-58.40945713199994 -34.64073190399995),Helipuerto Complejo Médico de la Policía Federal Argentina Churruca Visca,Helipuerto,Complejo Médico de la Policía Federal Argentina Churruca Visca,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.401,401,2,POINT (-58.368086922999964 -34.585980596999946),Helipuerto Fuerza Aérea Argentina (Edificio Cóndor),Helipuerto,Fuerza Aérea Argentina (Edificio Cóndor),6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.402,402,2,POINT (-58.39393252199994 -34.630936978999955),Helipuerto Hospital de Pediatría Profesor Doctor Juan P. Garrahan,Helipuerto,Hospital de Pediatría Profesor Doctor Juan P. Garrahan,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.403,403,2,POINT (-58.429775898999935 -34.580831881999984),Helipuerto Swiss Medical,Helipuerto,Swiss Medical,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.404,404,2,POINT (-58.34496903899998 -34.62151529899995),Helipuerto Madero,Helipuerto,Madero,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.406,406,2,POINT (-58.368346419999966 -34.60643742899998),Helipuerto Teniente Primero Roberto Mario Fiorito,Helipuerto,Teniente Primero Roberto Mario Fiorito,6,IGN,IGN
+puntos_de_transporte_aereo_GB035.440,440,2,POINT (-64.71654299999994 -32.689892999999984),Helipuerto Juan y Luci,Helipuerto,Juan y Luci,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.443,443,2,POINT (-58.78854272499996 -34.37865884299998),Helipuerto Cabaña San Isidro Labrador I,Helipuerto,Cabaña San Isidro Labrador I,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.444,444,2,POINT (-58.37458145099998 -34.582440487999975),Helipuerto Centinela,Helipuerto,Centinela,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.445,445,2,POINT (-58.46040831499994 -34.69393029099996),Helipuerto Autódromo Oscar y Juan Gálvez,Helipuerto,Autódromo Oscar y Juan Gálvez,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.534,534,2,POINT (-64.17338732199994 -31.420376113999964),Helipuerto Centro Cívico Bicentenario,Helipuerto,Centro Cívico Bicentenario,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.554,554,2,POINT (-65.82487354499995 -38.147715253999934),Helipuerto Transener S.A.,Helipuerto,Transener S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.560,560,2,POINT (-58.29967863899998 -34.70794054999993),Helipuerto Policlínico del Vidrio,Helipuerto,Policlínico del Vidrio,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.567,567,2,POINT (-55.92594106699994 -27.404744943999958),Helipuerto Residencia Oficial Gobernador,Helipuerto,Residencia Oficial Gobernador,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.582,582,2,POINT (-58.790426543999956 -34.56270701699998),Helipuerto Doctor Mariano Moreno,Helipuerto,Doctor Mariano Moreno,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.583,583,2,POINT (-54.48147165399996 -26.996317395999938),Helipuerto San Vicente Centro,Helipuerto,San Vicente Centro,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.584,584,2,POINT (-60.49675062899996 -31.730161541999962),Helipuerto Jefatura de Policía de Entre Ríos,Helipuerto,Jefatura de Policía de Entre Ríos,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.596,596,2,POINT (-57.983735825999986 -30.745339763999937),Helipuerto Hospital Santa Rosa,Helipuerto,Hospital Santa Rosa,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.629,629,2,POINT (-64.90534071799993 -27.51438262099998),,,,6,IGN,IGN
+puntos_de_transporte_aereo_GB035.714,714,2,POINT (-64.26497996399996 -27.781276350999974),Helipuerto Superior Tribunal de Justicia de la Provincia de Santiago del Estero,Helipuerto,Superior Tribunal de Justicia de la Provincia de Santiago del Estero,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.718,718,2,POINT (-58.51491571899999 -34.72358758599995),Helipuerto Oficial Subinspector Gustavo Soares de Souza,Helipuerto,Oficial Subinspector Gustavo Soares de Souza,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.720,720,2,POINT (-58.74200019999995 -34.66941422899998),Helipuerto Hospital Zonal General de Agudos Héroes de Malvinas,Helipuerto,Hospital Zonal General de Agudos Héroes de Malvinas,6,IGN,IGN
+puntos_de_transporte_aereo_GB035.725,725,2,POINT (-60.54048861599995 -31.74807992799998),Helipuerto Sección Aviación Ejército 2,Helipuerto,Sección Aviación Ejército 2,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.751,751,2,POINT (-66.49091808499998 -22.70110505399998),Helipuerto Mina Pirquitas,Helipuerto,Mina Pirquitas,6,IGN,IGN
+puntos_de_transporte_aereo_GB035.772,772,2,POINT (-64.31453288699998 -32.20354355999996),Helipuerto Transener S.A.,Helipuerto,Transener S.A.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.773,773,2,POINT (-58.384966874999975 -34.83468876799998),Helipuerto Destacamento Policial El Vapor,Helipuerto,Destacamento Policial El Vapor,6,IGN/ANAC/Street View,IGN
+puntos_de_transporte_aereo_GB035.777,777,2,POINT (-64.45517496899998 -31.297040333999973),Helipuerto Hospital Familia Domingo Funes,Helipuerto,Hospital Familia Domingo Funes,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.780,780,2,POINT (-58.40047815199995 -34.57257502999994),Helipuerto DINES Doctor E. Escudero,Helipuerto,DINES Doctor E. Escudero,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.822,822,2,POINT (-60.500826426999936 -31.708617277999963),Helipuerto Amarras del Sol,Helipuerto,Amarras del Sol,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.781,781,2,POINT (-58.38384585099993 -34.577198890999966),Helipuerto Prefectura Nacional Argentina Oficial Principal Ballestra,Helipuerto,Prefectura Nacional Argentina Oficial Principal Ballestra,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.787,787,2,POINT (-64.78036288199996 -32.059742150999966),Helipuerto Roca Val,Helipuerto,Roca Val,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.798,798,2,POINT (-54.63822352999995 -25.99037661899996),Helipuerto Puerto Esperanza,Helipuerto,Puerto Esperanza,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.818,818,2,POINT (-66.86324280599996 -29.435586653999962),Helipuerto Policía Provincial C.A.P.E.,Helipuerto,Policía Provincial C.A.P.E.,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.878,878,2,POINT (-60.72054316599997 -31.66612367999994),Helipuerto Brigada Aérea Policial,Helipuerto,Brigada Aérea Policial,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.897,897,2,POINT (-57.53864780699996 -38.037959488999945),Helipuerto Base Naval Mar del Plata 1,Helipuerto,Base Naval Mar del Plata 1,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.898,898,2,POINT (-57.53895412099996 -38.03833572199994),Helipuerto Base Naval Mar del Plata 2,Helipuerto,Base Naval Mar del Plata 2,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.907,907,2,POINT (-58.66537986099996 -34.37634640599998),Helipuerto ACA - Delta,Helipuerto,ACA - Delta,-1,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.925,925,2,POINT (-65.04683307199997 -24.74489450899995),Helipuerto Estación Transformadora Cobos,Helipuerto,Estación Transformadora Cobos,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.929,929,2,POINT (-58.750002965999954 -34.681518693999976),Helipuerto CEVYCA,Helipuerto,CEVYCA,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.1019,1019,2,POINT (-54.57624670699994 -26.39120587499997),Helipuerto Aeródromo Eldorado,Helipuerto,Aeródromo Eldorado,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.954,954,2,POINT (-60.674614575999954 -32.99359089799998),Helipuerto Unidad Regional II de Policía,Helipuerto,Unidad Regional II de Policía,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.956,956,2,POINT (-61.76612038999997 -34.871539825999946),Helipuerto Establecimiento La Bélgica,Helipuerto,Establecimiento La Bélgica,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.958,958,2,POINT (-57.98707045699996 -35.54968608699994),Helipuerto Blue,Helipuerto,Blue,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.974,974,2,POINT (-60.698537933999944 -33.09042148299994),Helipuerto Comisario General Don Mariano Savia,Helipuerto,Comisario General Don Mariano Savia,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.993,993,2,POINT (-71.17004288099997 -39.81581648699995),,,,-1,ESRI-World_Imagery,IGN
+puntos_de_transporte_aereo_GB035.994,994,2,POINT (-71.04640713899994 -39.85273215199993),,,,-1,ESRI-World_Imagery,IGN
+puntos_de_transporte_aereo_GB035.998,998,2,POINT (-71.53384129899996 -41.05467525199998),Helipuerto San Carlos de Bariloche - Complejo Llao Llao,Helipuerto,San Carlos de Bariloche - Complejo Llao Llao,6,ESRI-World_Imagery/Ministerio de Transporte  de la Nación/ANAC,IGN
+puntos_de_transporte_aereo_GB035.1002,1002,2,POINT (-71.28539970099996 -40.15219959299998),Helipuerto Rancho de Montaña,Helipuerto,Rancho de Montaña,6,ESRI-World_Imagery_2010/IGN04/Ministerio de Transporte de la Nación,IGN
+puntos_de_transporte_aereo_GB035.1003,1003,2,POINT (-71.36659947199996 -40.04405959099995),Helipuerto Estancia La Candelaria,Helipuerto,Estancia La Candelaria,6,ESRI-World_Imagery_2010/IGN04/Ministerio de Transporte de la Nación,IGN
+puntos_de_transporte_aereo_GB035.1011,1011,2,POINT (-70.04232675499998 -40.161307112999964),Helipuerto Transener S.A.,Helipuerto,Transener S.A.,6,IGN04/ANAC,IGN
+puntos_de_transporte_aereo_GB035.1015,1015,2,POINT (-68.87266569599996 -32.86266129799998),Helipuerto Base Cóndor,Helipuerto,Base Cóndor,6,IGN,IGN
+puntos_de_transporte_aereo_GB035.1016,1016,2,POINT (-66.29605239499995 -30.348750559999928),Helipuerto Chamical,Helipuerto,Chamical,6,IGN/ANAC,IGN
+puntos_de_transporte_aereo_GB035.1018,1018,2,POINT (-58.20573825799994 -34.744791591999956),Helipuerto Aeródromo Ezpeleta,Helipuerto,Aeródromo Ezpeleta,6,IGN,IGN
+puntos_de_transporte_aereo_GB035.1020,1020,2,POINT (-60.55111473399995 -24.729486965999968),Helipuerto Aeródromo Las Lomitas,Helipuerto,Aeródromo Las Lomitas,6,IGN,IGN
+puntos_de_transporte_aereo_GB035.1025,1025,2,POINT (-68.86013593799998 -38.04857482799997),Helipuerto San Roque,Helipuerto,San Roque,-1,Ministerio de Transporte de la Nación,IGN
+puntos_de_transporte_aereo_GB035.1031,1031,2,POINT (-71.38417533699999 -41.16671216699996),Helipuerto Arelauquen,Helipuerto,Arelauquen,6,IGN04/Ministerio de Transporte de la Nación/Sitio web del complejo,IGN
+puntos_de_transporte_aereo_GB035.1032,1032,2,POINT (-71.41053955699994 -41.12081637799997),Helipuerto Escuela Militar de Montaña Teniente General Juan Domingo Perón,Helipuerto,Escuela Militar de Montaña Teniente General Juan Domingo Perón,6,IGN04/Ministerio de Transporte de la Nación,IGN
+puntos_de_transporte_aereo_GB035.1075,1075,2,POINT (-60.59897199999995 -52.153936999999985),,,,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB035.1076,1076,2,POINT (-58.626094999999964 -51.69296699999995),,,,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB035.1077,1077,2,POINT (-60.06605399999995 -51.94889399999994),,,,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB035.1078,1078,2,POINT (-60.130611999999985 -51.49529599999994),,,,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB035.1079,1079,2,POINT (-58.11281508099995 -51.67358161599998),,,,-1,Imagery,IGN
+puntos_de_transporte_aereo_GB035.1088,1088,2,POINT (-58.47564987299995 -51.82086891999995),,,,-1,Imagery,IGN
